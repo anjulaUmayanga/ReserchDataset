@@ -1,0 +1,2021 @@
+Question,Category
+Differentiate Qualitative data and Quantitative data. Give suitable examples.,Analyze
+ Give five (05) characteristics of quality information,Remember
+State three (03) main roles of ICT in society.,Remember
+Identify four (04) fields that use ICT applications and provide two (02) application example for each field.,Understand 
+Explain different generations of computer? State major changes of following characteristics in each generation.,Analyze
+What are the three (03) types of programming translators? Explain them briefly.,Understand
+"What does it mean by office productivity application? Give two examples for main three (03) types of productivity application, with their productivity suite name.",Apply
+Differentiate vector and raster graphic images used in computer graphics.,Analyze
+What does it mean by remote access application? Give two (02) popular examples of such application.,Understand 
+What is computer chipset? Briefly explain the function of main two (02) parts of computer chipset,Understand
+Briefly explain the booting process of a computer initiated by BIOS,Understand
+Identify the following components of motherboard labeled by the English letters.,Remember
+What are the three (03) different voltages used in a computer system. Name three (03) parts of motherboard power connectors available in ATX Type power supply.,Remember
+ What does it mean by file system in computers? Compare and contrast FAT32 and NTFS file systems.,Analyze
+"Differentiate primary partition, extended partition and logical drives.",Analyze
+Briefly explain the following utilities of a computer system.,Understand
+ Define each of the following terms.,Remember
+" List down the main characteristic, of the database approach and explain in brief.",Understand
+A database approach addresses many problems and challenges associated with the traditional file-based approach. Using a DBMS to control how data is shared with different applications and user has a number of advantages. ,Understand 
+Describe the role of database management systems (DBMS) in the database approach and discuss why knowledge of DBMS is important for database administrators.,Apply
+ List down five (05) advantages of traditional two-tier client-server architecture.,Remember
+ write brief notes on three (03) types of Multi-user DBMS Architectures.,Understand
+Explain the phrase 'three-tier architecture' with respect to databases and the ANSISPARC model.,Understand
+Explain the concept of database schema and discuss three (03) types of schema in a database.,Understand
+"Define the term ""database integrity"". How does database integrity differ from database security?",Analyze
+ What is the difference between a procedural and non-procedural language? ,Understand 
+" What is a ""data model""? Describe the relational data model by providing of an example",Understand 
+" Briefly explain three (03) possible benefits of ""views"" in databases",Understand
+Describe the role and content of the system catalogue in a DBMS,Understand
+What is normalization? Why normalization is important?,Analyze
+A company stores employee records in the format shown below. Two such employees' records are given below.,Understand
+Identify the repeating group of attributes and transform the above unnormalised  0NF table into 1st Normal Form.,Apply
+identify any partial dependencies and transform into 2nd Normal Form / 2NF.,Analyze 
+Identify any transitive dependencies and transform into 3'd Normal Form / 3NF.,Analyze 
+"Produce an Entity-Relationship Diagram of the above scenario. (State, the notation used and include in ERD, cardinality ratio, key concepts, any other sample attributes and any assumptions made, which do not contradict the discourse).",Create
+Give 03 (three) different data types used in computer systems. State the main different between Analog and Digital signals.,Remember 
+Convert the followings,Apply
+Convert the followings fractional numbers into corresponding binary numbers. Answer can be represented up to 3 decimal points is sufficient.,Apply
+Perform the following calculations using 2's complement of 8 bits,Apply
+Represent the following decimal value in single precision (IEEE 32 bit standard) floating point format.,Apply
+" In ASCII representation method the character 'C' can be represented as 4316, identify the ASCII code for the characters 'A' and 'E' in binary.",Remember 
+ Answer the following questions based on the given Boolean expression.,Analyze 
+map the Boolean expression in a karnaugh map.,Apply
+Find the simplified Boolean expression in SOP (Sum of Product) format using the karnaugh map.,Analyze
+Draw the logical circuit diagram using basic logic gates for simplified Boolean expression.,Create
+" Get a copy of above karnaugh map, and find the simplified Boolean expression in POS (Product of Sum) format using the same karnaugh map",Apply
+ Compare and contrast the combinational and sequential digital circuits. Give 03 (three) examples for each of them.,Understand
+Draw the digital circuit diagram and truth table of a full adder.,Create
+Differentiate CISC (Complex Instruction Set Computing) and RISC (Reduced instruction Set Computing) architectures in computer organization.,Understand 
+What does it mean by serial or sequential access memory in computer memory management?,Understand
+ Create a letter using MS Word as given on page number 02. Save the letter with the name letter followed by your registration number.,Apply
+Perform a spell check on that document.,Apply
+Replace “Your_Reg no” phrase with your own registration number at all places. Align your registration number on top of the letter to 'right' and change the font size to 16.,Apply
+Insert a horizontal line under your registration number on top of the letter,Apply
+Use this letter to perform a mail merge by using mail merge wizard.,Apply
+Save merged letters in a single document with the name merged followed by your registration on number.,Apply
+Create a template for a curriculum vita as given on page number 03. Save the document with the name cy followed by your registration number.,Create
+"use table to format and use the image ""user image.jpg, given to you.",Apply
+Font style -'Times New Roman'.,Apply
+Font size 12 except the first title line. (font size of title line is 16).,Apply
+Create the above worksheet in Microsoft Excel and save your workbook with the name marks followed by your registration number.,Apply
+"Insert a new column between column D and column E, and name the column as 'Continuous'.",Apply
+"In cell E2, enter a formula to calculate the marks for Continuous from Quiz and Assignment marks.",Apply
+ Apply the formula by drag the cells from E3 to E9.,Apply
+"In cell G1, enter the text ""Final Marks"" as the column name.",Apply
+"In cell G2, enter a formula to calculate the Final Marks by getting summation of Continuous and Exam.",Apply
+Sort the Student Name in alphabetical order,Apply
+Insert a new row with the cell pointer at cell A1.,Apply
+"Merge the cells from A1 to Hl and enter the text ""Student Mark Sheet"" in following format.",Apply
+"Name the column H (In cell H2) as ""Grade"".",Apply
+"In the cell H3, enter a formula for grading the student according to the Final Marks.",Apply
+ Create a pivot table in a New Worksheet for Gender wise analysis using the data,Analyze
+"Background color 'Yellow', Font color 'Black'.",Apply
+"Company name ""MOL Company"" - align to 'center', bold, text shadow, font style 'Harrington' and font size 50",Apply
+"Presentation title Income Report - 2016 below the title - align to 'center', text shadow, font style 'Calibri' and font size35.",Apply
+ For Title and content layout - background color 'Green'.,Apply
+Logo should be at the right side upper corner of the slide.,Apply
+Use suitable transition effect between the slide changes for on click.,Apply
+" Create a blank database named as “ABC Company Holdings"".",Create
+ Create a table “Item” using following structure and set item code as the primary key.,Create
+Add the following records to above table.,Apply
+Create a table “Distribution” with suitable structure to add the following records to the same table.,Create
+Create a table “Location” with the following structure.,Create
+"Create a form based on the “Location” table structure and save it as “Location_form”. In the form. include the following "" buttons.",Create
+"Enter following data into ""Location"" table using the above form.",Apply
+"Define relationships among ""Item"""" ""Description"" and ""Location"" tables.",Analyze
+Create the following Queries using Query Wizard and save thein with relevant question number.,Create
+Write a parameter query to find details of item description. stored location code and the quantity for a particular location code.,Create
+Display the unit price by Increasing l09zo for only imported items.,Apply
+Make a new table called “imported items” to store the details of imported items form the item table using Make-Table Query.,Create
+Create reports using repot wizard for the followings,Create
+Create a form for the item table using form design view.,Create
+Create a database named as “Hotel management System”.,Create
+"Create for tables namely Hotel. Room. Booking and Guest, given in the schema above within the database created in 2(a).",Create
+Insert the following records in to each table.,Apply
+ List out the full details of all hotels,Understand
+ List out the full details of all hotels in Colombo.,Understand
+"List out the names and addresses of a1l guests in Kandy, alphabetically ordered by name.",Understand
+"List out all double or single rooms with a price below 5200.00 per night, in ascending order of price.",Understand
+List the bookings for which no date To has been specified.,Understand
+How many hotels are there?,Understand
+ What is the average price of a room?,Understand
+what is the total revenue per night from al1 double rooms?,Understand
+How many different guests have made booking for August?,Understand
+ List the price and type of all rooms at the Cinnamon Grand.,Understand
+ List all guests currently staying at the Cinnamon Grand.,Understand
+List the number of rooms in each hotel.,Understand
+List the number of rooms in each hotel in Colombo.,Understand
+what is the average number of bookings for each hotel August?,Understand
+ what is the lost income from unoccupied rooms at each hotel today?,Analyze
+Prove the following functions using the algebra laws.,Apply
+ln how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?,Apply
+"The output of a logic circuit is l, only whenever any one of the following patterns is present, such three inputs are like: 000, 001, 010. 011, and 110.",Understand
+Consider the following propositional variables,Understand
+Validate the equivalency of the proposition p v (q A r) and (p v q) n (p v r) using truth tables.,Evaluate
+Simplify the following expressions and give the answers with rational denominators.,Apply
+"Find the perimeter of a rectangle, having the length and width and respectively.",Apply
+Solve the following.,Apply
+Answer the questions below based on the flowing frequency table of the distribution of gas consumption of house in 100 days.,Understand
+Prove the following trigonometric functions.,Apply
+Differentiate with respect to x.,Apply
+" Differentiate y=ax2+bx+c from first principles. This curve passes through the point (0, 1) and the gradient of the curve at the point (-1/4,7/8) is zero. Find the values of a,b and c.",Apply
+Calculate the following integrals,Apply
+"Find the area bound by the curve x3-1, the x axis, and the lines x=0 and x=3.",Apply
+Define the programming language and list Two (02) types of programming languages with example.,Understand
+"Write down the 'C' Program Structure, and define each component of the “C” program structure",Remember
+Define the following terms,Remember
+Describe the types of control statements,Understand
+Given the following code fragment,Understand
+"By, referring the following flow chart, write a C program lo calculate the net salary system.",Create
+Why are comments required in a program,Understand
+The program below contains errors. Find the errors and rewrite this program with the correct code,Evaluate
+Carry out a program that ask user to enter the total of 100 marks and then display the letter grade and GPA based on the below diagram.,Apply
+Write 'C' codes for the following,Apply
+Answer the following questions based on the declaration below.,Understand
+"Write down a program using C language, to enter the 10 marks. and calculate the AVERAGE and HIGHEST marks among them.",Apply
+implement a C program using user defined function for the following scenario.,Apply
+Write a C Program to calculate factorial of a given number using recursion.,Apply
+Define Information and Communication Technology (ICT) using key technologies involved in ICT.,Understand
+"Differentiate Discrete and Continuous data types, and provide two (02) suitable examples for each.",Understand
+State four (04) main characteristics of information.,Remember
+Provide two (02) examples for each natural system and artificial system.,Understand
+Classify the computers according to the technology used.,Understand
+What are high level and low level programming languages? Categorize the generations of computer programming languages with respect to high level and low level programming languages.,Understand
+Differentiate compiler and interpreter in computer program translation.,Understand
+What is meant by an Operating system? Write three (03) popular operating systems.,Understand
+Provide five (05) features (characteristics) of operating system.,Understand
+What is meant by resolution in computer graphics? State four (04) applications of computer graphics.,Understand
+What does it mean by Communication software? Give one (01) example for synchronous and asynchronous communication software respectively.,Understand
+What is meant by Bus in a computer system?,Understand
+Briefly explain the following utilities of a computer system.,Understand
+What are the three (03) types of CPU packaging?,Remember
+Name four (04) expansion slots can be found on a motherboard with its full naming format.,Remember
+Organize the following steps of booting process of a computer in order.,Understand
+What are the two (02) main components of a chipset?,Remember
+Define the following terms.,Remember
+Explain following with suitable examples:,Understand
+What are the benefits of a database management system over a manual system? Provide five (05) example.,Understand
+explain the three tier architecture of DBMS with a clear illustration along with the mapping.,Understand
+What is the difference between a candidate key and the primary key for a given relation?,Understand
+What is a foreign key constraint?,Understand
+Consider the following schema and answer the questions given below using relational algebraic notations.,Analyze
+answer the following questions using SQL statements by referring the following relational schema. Note that the keys of the relations are underlined.,Apply
+State four (04) different number representation system with their base values.,Remember
+Differentiate Analog and Digital signals using suitable graphs.,Understand
+Convert the followings by considering the base values.,Apply
+Perform the following binary arithmetic calculation.,Apply
+Perform the following calculations in both 1's complement and 2's complement methods using 8 bits space. Show all steps clearly.,Apply
+Differentiate Sum of Product (SOP) and Product of Sum (POS) standard formats of Boolean expression with suitable example.,Understand
+Simplify the following Boolean expressions using laws and theorems of Boolean algebra. Show all steps with appropriate laws theorems used for simplification.,Apply
+Simplify the following Boolean expressions using the Karnaugh map.,Apply
+What is meant by a sequential digital circuits? Give two (02) example for sequential digital circuit.,Understand
+Draw the digital circuit diagram for half adder and full adder with appropriate truth tables.,Apply
+list two differences between digital computer systems and embedded systems?,Understand
+"Digital signals could be categorized as synchronous and asynchronous"" Briefly explain the differences between them with the aid of a diagram.",Understand
+Convert the given numbers with different bases to the given number system.,Apply
+Perform the following arithmetic operations.,Apply
+Prove (A.B).B=B using the method of optional products.,Apply
+Piot the folioing Boolean expressions in a Venn diagram.,Apply
+Using the theorem of Boolean algebra. prove the following identifies.,Apply
+Construct the truth table fur the scenario. Clearly mention about any assumptions taken.,Apply
+Obtain the minimal Boolean expression.,Apply
+Design a logic circuit.,Create
+Define the term bus.,Remember
+Compare two types of bus. categorized based on the physical structure.,Understand
+What is meant by interrupts?,Understand
+Discuss about the main two steps in the instruction cycle with the aid of a state diagram.,Understand
+Define the term Unit of transfer in terms of main memory in computer memory systems.,Understand
+State two different types of method of accessing units of data and each.,Understand
+briefly explain the followings in terms of computer memory.,Understand
+Discuss about the memory hierarchy of computer memory system with the aid of a diagram,Understand
+Prepare an invitation using MS Word as given invitation sample in page 4. Save your document as IndexNo_invitation.docx.,Apply
+Take a copy of above invitation and save it as IndexNo_invitation_merged.docx. Use this file as the starting document to perform mail merge using mail merge wizard.,Apply
+Following table contains sales Data of WIX company for the year 2018.,Understand
+Create a blank presentation and save it as IndexNo_computerSystems.pptx.,Apply
+Format the Slide Master in the slide master view as follows to apply the formatting to all slide layouts.,Apply
+Insert a layout in the slide master view to create a new layout to insert pictures.,Apply
+Create Slide 1. slide 2. slide 3 and slide 4 of the presentation as the instructions given below.,Apply
+"create a database named ""Hospital ICTxxx"" in the above folder.",Apply
+Create following tables with the given table structure.,Apply
+Insert the following records to their respective tables.,Apply
+Create a form for the table Doctors named as “Doctors”.,Apply
+"Create a form for the table '""Appointments"" as shown in Figure 01.",Apply
+Insert the following record using the form created for part e.,Apply
+"The appointment having the ""Appoint_No 4"" has been cancelled for an emergency reason. Delete the particular record from the database.",Apply
+Design the following quires and save them as separate query with the specified name.,Apply
+"Create a report named ""Report 2018"" from the table ""Appointments”",Apply
+"Export the report you created in part i as ""FinalReport _lCTxx.pdf to your folder.",Apply
+Write SQL statements and execute them to display the output for each of the question.,Apply
+Identify and correct the errors in each of the following statements.,Evaluate
+Write a single C statement or line that accomplishes each of the following:,Apply
+"Copy each of the equation, State the order of evaluation of the operators in each of the following C statements and show the value of x after each statement is performed.",Understand
+"State whether each of the following is true or false. If false, explain why.",Understand
+Define & Differentiate between the terms High level languages and Low level languages with a suitable examples.,Understand
+Explain the meaning of the statements given below.,Understand
+"Based on the below pseudo code, draw a flow chart.",Apply
+Write short notes about the looping statements with examples.,Understand
+Define and differentiate an array and simple variable.,Understand
+Write down the Structure of a function in 'C' programing language and define each components of a function. Define & differentiate between Strict & function in C language.,Understand
+input five integer and store it in an array,Apply
+calculate the product (multiplication) of all input values.,Apply
+Find the sum of those five numbers.,Apply
+Calculate the mean of those five integers.,Apply
+Find the deviation for each number.,Apply
+"Finally, display the product, total, average and deviation of each number on the screen.",Apply
+Define a structure Student with the following attributes.,Apply
+Implement separate functions to perform the following operations.,Apply
+Display all the details of a student.,Apply
+Implement the main function to perform the following tasks.,Apply
+Describe the major functions of Operating System.,Understand
+Explain the process states with the aid of a diagram.,Understand
+Operating System uses Process Control Blocks (PCB) to store the attributes of processes. List out and describe the information stored in PCB.,Understand
+Write short note on the following.,Understand
+Define the followings.,Understand
+What are the differences between?,Understand
+"Find the average waiting time (A.W.T) and the average turnaround time (A.T.A.T) for executing the following processes using Round-Robin algorithm, where the quantity is four (4)?",Apply
+"Define the terms deadlock state, and safe state in your own words?",Understand
+What are the deadlock conditions?,Understand
+How can you prevent the occurrence of a deadlock occurs?,Understand
+"Suppose we have five (05) processes and three (03) resources, A, B. and C.A has three instances, B has five (05) instances and C has four (04) instances. Can the system execute the following processes without deadlock?",Analyze
+State the reasons why the programs and data are not resided in main memory permanently.,Understand
+Describe the architecture of a Linux system with the aid of a diagram:,Understand
+Write short note on the followings:,Understand
+"what is system call, and list out the system cal1s for process management.",Understand
+What are the three principal components of a data-processing system?,Remember
+Give a brief account on three ways in which society changed with adoption of telephony.,Understand
+What are the three (03) advantages of being an early adopter and a late adopter of a new technology.,Understand
+Briefly discuss the pros and cons of technology. Provide at least five (05) strong reasons to support your answer.,Understand
+Explain briefly how the introduction of high-leve1 programming languages change computing.,Understand
+What is the difference between morality and ethics?,Understand
+Compare and contrast on divine command theory and Kantianism.,Understand
+Define censorship in your own words. What are the three (03) characteristics of the internet make censorship difficult?,Understand
+Briefly explain what is the most common form of identity theft?,Understand
+What is intellectual prosperity (IP)? What are the ways in which an individual or firm may protect intellectual property?,Understand
+Explain how Information Technology advancements have made it easier for consumers to violate copyright law.,Understand
+Explain why patenting has been considered as an unreliable way of protecting intellectual property rights in software industry.,Understand
+List five (05) pieces of information about a person (personal information) that appears in public records.,Remember
+Facebook introduced the Tag Suggestion feature. Discuss the morality of this feature with Kantianism and act utilitarian ethical views.,Understand
+Define the followings:,Understand
+What is the purpose of the Carnivore system?,Understand
+Give two examples of data mining programs run by governments.,Understand
+Explain two different ways a vote thief could cast multiple votes in an online election.,Understand
+"In which conditions the release of a worm, virus, or Trojan horse would be morally justifiable?",Evaluate
+Write the Bourne Again Shell (BASH) script file that would perform the following tasks.,Apply
+Write a BASH script with a function that would perform the following file testing operations for a user input.,Apply
+write a BASH snit with a function to do the following tasks.,Apply
+Check whether the file content (which is entered by the user) is added properly or not by displaying line the file contents line by line.,Apply
+Write a function to append ten (10) more random integer values which is between 20 to 200 to the end of that same file.,Apply
+Find the sum of all the twenty integers which are read from the file.,Apply
+Write a BASH script to complete the following tasks.,Apply
+Write a script with recursive functions for the following operations.,Apply
+Brief the Reliable Network architecture using four (04) basic characteristics.,Understand
+What are the three (03) most common ways to access the Internetwork Operating System (IOS)?,Remember
+Write down the four (04) layers of TCP/P model with two (02) protocol associated to each layer.,Remember
+Explain about Protocol Data Units (PDU) in network data transfer with suitable layers of OSI model.,Understand
+"Differentiate the terms Bandwidth, Throughput and Goodput of data in data transfer through a transmission medium.",Understand
+Discuss the pros and cons of wired and wireless media using its main characteristics.,Evaluate
+"What is ARP protocol? Explain the function of ARP protocol including, ARP request and ARP reply.",Understand
+Briefly explain three (03) techniques to migrate from IPv4 to IPv6 in coexistence of both versions.,Understand
+What is meant by VLAN? State four (04) benefits of using a VLAN.,Remember
+You have been allocated 192.168.10.0 class-full network to configure a network in your company according to the following requirements given by the managerial board.,Apply
+Differentiate the TCP and UDP transport layer protocols.,Understand
+Briefly explain the emailing process using the functions of three (03) main email protocols.,Understand
+What are the four (04) step process for a client to obtain a lease in a DHCPv4 operation?,Remember
+"Briefly explain about the followings related to routing,",Understand
+Label your devices as follows.,Apply
+create the network topology using appropriate devices and cables as follows,Apply
+Assign IP addresses to the interfaces of connected devices using the Addressing Table given below.,Apply
+Configure basic settings on devices as given in topology.,Apply
+Create VLANs on each switches as follows.,Apply
+Assign YLANs to correct interfaces on each switches.,Apply
+Configure trunk links where it is necessary on switches.,Apply
+Configure Inter-VLAN Routing (Router-on-a-Stick) on router R1.,Apply
+Check the connectivity between the following devices using ping command.,Apply
+save all configuration to NVRAM of appropriate devices.,Apply
+Configure IP addresses to each device on all networks and subnetworks except PC-D. IP addresses are given on the topology diagram.,Apply
+change the hostnames of each device same as device label.,Apply
+Enable DHCP on router R2 with following parameters.,Apply
+Set static IP address for Server-B as 10.1.2.10/24,Apply
+Configure static routing protocol on this topology and ensure that you can ping from PC-A to Server-B and PC-D.,Apply
+write an ACL to deny the HTTP service from pc-A to Server-B.,Apply
+Configure NTP on R1 using Server-A.,Apply
+"Enable syslog server on Server-A, and do necessary configuration on RI to pick the log message with accurate time",Apply
+save all configuration to NVRAM of appropriate devices,Apply
+Define the term data structure.,Understand
+State the in-out techniques used in stack and queue data structures. Provide one (01) real world example similar to those structures.,Understand
+Answer the question below [b (i) to b (ii)] based on the stack implementation of parenthesis checking.,Understand
+Describe how pop and push operations takes place in stack data structure.,Understand
+What is meant as analyzing an algorithm.,Understand
+Briefly explain the term time complexity in the context of algorithm implementation.,Understand
+Answer the questions from [ c (i) to c (iii)] based on the given array of elements.,Understand
+Define the followings terms in terms of trees.,Understand
+what is meant by in order successor and write down the algorithm to find out the in order successor of a node in a tree.,Analyze
+Explain by means of an algorithm. the steps to delete a node which has two (02) children from a binary tree.,Understand
+"Write the order of the following traversals, for the given binary tree.",Understand
+"Define the term weighted directed graph. Given graph is the distance (in km) between certain places named as 1,2,3,4,5,6 and7. Answer the questions below [b (i) - b (iii)] based on the given graph.",Understand
+Describe the breadth first search algorithm with the aid of a graph.,Understand
+Explain what is meant by the following terms.,Understand
+"What is meant by the term ""Inheritance"" in Object Oriented Technology?",Understand
+Describe the Aggregation and Composition relationships using suitable examples?,Understand
+"In an object-oriented programming language of your choice, write a definition for a number class that contains.",Apply
+Describe the difference between the Sequence Diagrams and the Collaboration Diagrams.,Understand
+Discuss the role of Use Cases (diagrams and descriptions) in the development of an object-oriented system.,Understand
+Provide the meaning of the following Figure in detail.,Understand
+Describe the figure described below in detail the part of the Activity diagram.,Understand
+Provide the meaning of the following Figure in detail.,Understand
+When would private and protected class members be used in an object-oriented program? Clearly distinguish between them.,Understand
+How are private and protected class members represented in a UML class diagram?,Understand
+Show how composition and aggregation inter-class relationships would be represented in a UML class diagram.,Understand
+"Consider the code fragment written be1ow. State the relationship between class A and class B, and show how this code fragment would be represented in a UML class diagram.",Understand
+Describe the meaning of <<include>> and <<extend>> in an UML use-case diagram.,Understand
+"How are specialization and generalization relationships defined, and how they are represented in an UML class diagram?",Understand
+"When developing any system, it needs to be tested. Discuss which techniques are appropriate for testing systems developed using object-oriented technology?",Evaluate
+Write JAVA program to read ten integers from the user.,Apply
+Find the summation of these ten integers.,Apply
+Find the minimum and maximum value.,Apply
+Find the duplicated values in the array.,Apply
+Write a JAVA program to implement the array-based stack data structure to perform the following operations.,Apply
+Write a JAVA program to Convert the INFIX expressions into POSTFIX expressions using stacks.,Apply
+"Create a linked list with three nodes with the values of 21, 05, 76.",Apply
+"A method to add new node at the front of the linked list. And add two more nodes with the values of 10, 32 at the front of the linked list.",Apply
+"A method to add a new node after a given node of the linked list. And add two more nodes with the values of 100, 45 after the node which having the value of 76.",Apply
+"A method to add a new node at the end of the linked list. And add three more nodes with the values of 99, 02, 83 at tire end of the linked list.",Apply
+A method to print the contents of linked list.,Apply
+A method to delete a given key (delete the value of 99 from the linked list).,Apply
+A method to search an element in a linked list to find whether it is existing or not?,Apply
+Explain the categories of binary codes and provide an example for each category.,Understand
+Find the BCD sum of 352 and 780 by finding their BCD equivalents.,Apply
+classify the combinational circuits and provide two examples for each.,Understand
+Differentiate an odd-parity scheme from an even-parity scheme used in Error Detection.,Understand
+Implement a full-adder using two half-adders.,Apply
+A majority circuit is a combinational circuit whose output is equal to 1 if the input variables have more 1's than 0's. The output is 0 otherwise.,Apply
+Symbolize using graphical symbols.,Apply
+Construct an Edge-Triggered D Flip-flop from D Latches.,Apply
+Give the characteristic equation and the characteristic table of JK flip-flop.,Understand
+Differentiate a Mealy Machine (Mealy FSM) from a Moore Machine (Moore FSM).,Understand
+State and describe the types of sequential circuits by their function.,Understand
+"Design a sequential circuit with two D flip-flops A and B, and an input x. When x=0, the state of the circuit remains the same.",Apply
+Design the above circuit and save it as Comparator ICTxxx in the same project.,Apply
+You need to implement the above circuit designed in part A of Question 0i using the hardware apparatus provided.,Apply
+"you need to design a main circuit named ""Adder ICTxxx"" that adds two 2-bit numbers as shown in the following figure.",Apply
+Add a new circuit: Full Adder. Label it as FA Its input should be 3 binary inputs and 2 outputs.,Apply
+Add a new circuit: Two-Bit Adder. Label it as 2-Bit Adder.,Apply
+add a new circuit: BCD-to-Seven-Segment Decoder. Label it as Decoder.,Apply
+"Using the above created circuits, build the main circuit that adds the two 2-bit numbers as shown in Figure 03 below.",Apply
+"Design a counter with the following repeated binary sequence: 0, 1, 2, 4 and 6 using D Flip-flops. Use don't care outputs X to indicate the states that are not part of the defined counting sequence. Save the circuit as Counter ICTxxx.",Apply
+Connect a seven segment display at the terminal of the above circuit to view the sequence of the counter. You may use the BCD-to-Seven-Segment Decoder you created for part c) in Question 02.,Apply
+Briefly explain the following Terms.,Understand
+Briefly explain Social Computing techniques.,Understand
+What is meant by social interaction multiplicity?,Understand
+Compare and contrast Social Media Vs Social Networks.,Analyze
+What is called e-Government?,Understand
+Briefly explain digital exclusion.,Understand
+Explain about Types of e-Government use in social computing.,Understand
+Explain at least three e-Government activities.,Understand
+What is called e-Citizen?,Understand
+Explain about Crowdsourcing practice in software engineering.,Understand
+Explain at least two Crowdsourcing platforms in social computing.,Understand
+Briefly explain abut Crowdsourcing for software testing und verification.,Understand
+Briefly explain about Web 2.0.,Understand
+Briefly explain about Web 3.0. How it differs from Web 2.0.,Understand
+What does it mean by protocol in networking?,Understand
+What is called Re- Engineering in Social Computing?,Understand
+Answer the following with the suitable examples.,Apply
+Define the followings,Remember
+"Describe briefly with the aid of a diagram, how a multimedia text can be digitized?",Understand
+List and explain five (05) situations where multimedia can be used.,Remember
+Compare and contrast Bitmap and Raster images.,Analyze
+Briefly describe the followings.,Understand
+What are the key parameters that are considered in evaluating a compression system? Briefly explain each.,Understand
+You have 30 seconds audio file sampled at a rate of 44.1KHz and quantized using 8 bits. Calculate the file size of the mono and stereo variants of this file.,Apply
+Create a new Photoshop Document of height 10 inches and width 10 inches having a resolution of 72 pixels/inch.,Apply
+"Using the image resources provided, manipulate an image as shown in Figure 01.",Apply
+Save the Photoshop document as e01 ICTxxx.psd.,Apply
+Create a new Photoshop Document having a width of 1366 pixels and 1500 pixels height with a resolution of 72 pixels/inch.,Apply
+"Using the appropriate tools and the resources provided, design the web pages as given in Figure 02, Figure 03 and Figure 04.",Apply
+"Save the 03 pages as Index ICTxxx.psd, Vegetable ICTxxx.psd and Fruits ICTxxx.psd in a folder titled Q02 ICTxxx.",Apply
+Provide the following hyperlinks in respective webpages.,Apply
+Save the 03 HTML pages created in the folder Q02 ICTxxx'.,Apply
+Create a new illustrator document with height 10 inches and width i0 inches.,Apply
+Use the appropriate tools and panels to design the logo as given in Figure 05.,Apply
+Save the logo as Q03 lCTxxx.ai.,Apply
+Create a new Illustrator document from the template Brochure.,Apply
+"Using the provided images, appropriate illustrator tool and panels, design the tri-fold brochure as given in Figure 06.",Apply
+Save the final output as Q04_ICTxxx.ai.,Apply
+Explain the motivation behind Object Oriented Programming (OOP). Your answer should consider the various programming paradigms and their drawback that culminates in the software system development.,Understand
+"Providing suitable examples, explain what is meant by an Object. Your answer should consider how the real world objects are mapped to software objects.",Understand
+Explain what is meant by polymorphism by providing real world example with relevant Java code segments?,Understand
+"Providing necessary examples, explain the use of access modifiers in functions.",Understand
+Write short description about the following relationships.,Understand
+Model the scenario of natural extinction of a living being according to the concept of Inheritance. Your answer should contain necessary Java keywords that is being used to model the scenarios.,Apply
+Compare and contrast between Java abstract classes and interfaces together with appropriate sample code segments.,Analyze
+Explain what is meant by encapsulation and its importance taking television set as an example.,Understand
+Consider the following if-else block:,Understand
+Write three explicit jump statements available in Java. Each statement should be noted with an explanation of the purpose of that statement and an example Java code snippet.,Apply
+"Define the term ""protocol"" in the context of communication in a networked environment.",Understand
+State three common HTTP request methods and briefly explain each using example.,Remember
+State two (02) limitations of Internet Protocol (IP) and further explain how those issues are addressed by Transmission Control Protocol (TCP).,Understand
+Hypertext Transport Protocol (HTTP) is based on the request-response communication model.,Understand
+Compare Transmission Control Protocol (TCP) and User Datagram Protocol (UDP).,Analyze
+Define the term eavesdropper. State a mechanism that is used to prevent eavesdropping.,Understand
+Explain the process of client caching with the aid of a flow diagram.,Understand
+"Compare static web pages and dynamic web pages based on the composing process, maintenance and workload on the server.",Analyze
+Discuss about the primary tasks and basic functionality of a web browser.,Understand
+Say you are given a task to develop an 'e-commerce' web application. Which client server architecture will you choose to implement this? Justify your answer.,Apply
+Create Person Class with following features.,Apply
+Create Subject Class with the following features.,Apply
+Create Undergraduate Class with the following features.,Apply
+Write a Main Class to perform the following Actions,Apply
+Write java classes with the following features,Apply
+Assume that you have an account balance of Rs.5000. you can withdraw money from your account. write an InvalidwithdrawlMoneyException exception class when you try to withdraw more.,Apply
+"""Figure 1"" depicts a model web page that contains a registration form that allow access privilege to a simple calculator. Design a web page same as the given model page using HTML (Hyper Text Markup Language) and CSS (Cascading Style Sheet).",Apply
+"""Figure 2"" depicts a simple calculator.html page with some basic functions to be linked with the yellow highlighted ""Click this to access the Calculator without Registering"" sentence in the Registration form of the Question No 01. Create a web page same as the given calculator using HTML (Hyper Text Markup Language), CSS (Cascading Style Sheet) and JavaScript functions.",Apply
+Define what is meant by the term Information and Communication Technology (ICT).,Remember
+Briefly discuss the role of ICT in the Agriculture sector.,Understand
+Mention the three (03) main types of personal computers (PC).,Remember
+Differentiate Data and Information.,Understand
+List out four (04) Characteristics of a valuable information.,Remember
+What is an Information System?,Remember
+Draw the Schematic Model of an Information System.,Apply
+Mention four (04) functions of an operating system (OS).,Remember
+Name two (02) Mobile operating systems.,Remember
+What are high level and low level programming languages? Give two (02) examples of high level and 1ow level programming language.,Remember
+Mention tour (04) types of printers.,Remember
+Briefly define the following printer/scanner related specifications.,Understand
+Write the short note for the followings.,Understand
+Define the following terms.,Remember
+Explain followings with suitable examples.,Understand
+What are the benefits of a database management system over a manual system? Provide three (03) examples.,Understand
+Provide two (02) situations where database should not be use.,Understand
+"Explain the three-tier architecture of DBMS along with followings: Levels. schema, and mappings. you are advised to explain with the illustration.",Understand
+"Explain the distinctions among the terms primary key, candidate key, and super key.",Understand
+What is normalization? what is the major goal of normalization.,Remember
+answer the followings.,Understand
+consider the followings tables answer  the question given below using relational algebraic notations.,Apply
+answer the following questions using SQL statements by referring the following relational schema. Note that the key of the relations are underlined.,Apply
+Convert the following numbers to their respective bases,Apply
+Represent the following numbers in Two's complement form,Apply
+Convert the following fractional numbers to their corresponding binary number,Apply
+Convert -118.12510 in 32-bit Single Precision IEEE 754Bnary Floating Point Standard,Apply
+Write down the truth table of Full Adder. Implement a fu11 adder using two Half Adders Show that,Apply
+Express the following Boolean Equations in POS (Product-of-Sums),Apply
+Briefly explain the following access methods in computer memory with a suitable example.,Understand
+Differentiate RISC 1rom CISC in computer organization.,Understand
+Convert the following numbers to Base 2 (Binary),Apply
+Represent the following numbers in Two's complement form,Apply
+Add the following binary numbers,Apply
+Subtract the following numbers,Apply
+Differentiate Weighted codes from Non-weighted codes. Provide an example for each.,Understand
+Find the complement of the expression A+BC,Apply
+Verify the distribution law X (Y + Z) =XY + XZ using perfect Induction method.,Understand
+List down the basic components computer.,Remember
+Differentiate Computer organization from Computer Architecture.,Understand
+Briefly explain the major components of CPU,Understand
+"Illustrate ""Instruction Cycle"" using a diagram",Apply
+what is an Interrupt'? List the classes of interrupt,Remember
+Explain the following steps in detail.,Understand
+Define System Bus.,Remember
+Explain the following statement with suitable example,Understand
+Categorize the memory based on access methods. Provide a suitable example for each of the category,Understand
+"Draw the Memory Hierarchy diagram. Indicate how cost per bit, capacity and access time change down the hierarchy.",Apply
+Differentiate RISC from CISC,Understand
+Verify the De Morgan’s theorem X+Y= XY using Perfect Induction method,Understand
+List down the main functions of a computer.,Remember
+"Define the term ""Bus Structurer”?",Remember
+List down five (05) key characteristics of computer memory systems,Remember
+Differentiate volatile memory from non-volatile memory,Understand
+Explain the following statement:,Understand
+Draw the Memory Hierarchy diagram.,Apply
+Compare and contrast RISC and CISC,Understand
+"Create a database named ""school ICT0xx"""" within the folder you created.",Apply
+"Create a table ""'Students"" to store the details of students of the School. Use the following table structure",Apply
+"insert the following records to the table ""'Students”",Apply
+"Create a form named ""StudentDetails'"" From the table ""Students”",Apply
+Insert the following records using the form create in question 04,Apply
+"Crate a table ""Subject"" in the same database using the following structure. Use Sub_lD as Primary key.",Apply
+Sort the records in the Students table by Last Name in Ascending Order and save the sort.,Apply
+Display the list of students whose age 15.,Apply
+"Design a query to display only the Student First Name, Date of Birth, Sub_Name and teacher of the student whose Last Name is ""Kumar.""'.",Apply
+Write each of the following sets in the roaster form,Apply
+"Let P = {1, 2,3}, Q = {2,3,5.} and R = t4,5,6} be three sets. Verify that",Apply
+"Write down the power set of the set S = {1, Ø, {Ø}}, where Ø is an empty set",Apply
+Write the set {X|2<x < 5}in the single interval notation.,Apply
+"Consider the relation R defined on the set, A = {a,b,c,d} as",Apply
+Show that f is not one to one.,Understand
+Prove that g is one-to-one and onto.,Understand
+Explain the High-level language and Low-level language with a suitable example.,Understand
+List out and define the common flow charts symbols.,Remember
+Explain the following control structure with proper flow chart,Understand
+Formulate a pseudocode algorithm for each of following,Create
+identity and correct the errors in each of the following statements.,Apply
+Write a statements (or comment) to accomplish each of the following,Apply
+"using the statements, you write in above Question 01 c. write a complete program that",Create
+Write down the Structure of a function in ‘C’ programing language and define each components of a function. Define & differentiate between Struct & function in C language.,Understand
+Write a C program to accomplish the followings.,Create
+Write a C program to carry out the followings:,Create
+Describe the term process in your own words,Understand
+List out and explain the parts of the process data structure with the aid of a diagram,Understand
+Explain the two (02) main models of Inter-Process Communication,Understand
+The operating system maintains three (03) types of scheduling queues of processes. List out and describe the types of scheduling queues and process states which are being stored in each queue,Remember
+"Compare and contrast the Non-pre-emptive, pre-emptive CPU scheduling",Understand
+"Processes are switching from state to state during their life cycle. Due to this process state switching, the Operating System needs to make some decisions to assign the CPU for some other process. List out a minimum of four (4) such situations when CPU scheduling decisions may happen.",Understand
+"Find the average waiting time (AWT) and the average turnaround time (ATAT) of the following set of processes using the Shortest Remaining Time First algorithm, where the quantum is four (4).",Apply
+Define the terms deadlock and safe state in your own words?,Remember
+"Consider the following Resource Allocation Graph 1. Is the system deadlocked? If so, which processes and resources are involved?",Analyze
+Draw the Wait fir Graph of the above Resource Allocation Graph I_,Apply
+"Suppose we have three (03) processes and four (04) resources, RI, R2, R3, and R4. Total resources, RI has twelve (12) instances, R2 has ten (10) instances, R3 has seven (07)instances, and R4 has nine (09) instances. Is this system in a safe state? Prove your answer using Banker's algorithm.",Analyze
+Explain the following memory allocation policies with the aid of a simple example.,Understand
+What does it mean by File in Secondary Memory'? And list out the file types supported in UNIX operating system,Remember
+What are the three principal components of a data-processing system?,Remember
+What is a search engine? Describe the two types of search engines,Remember
+What was the motivation for the creation of higher-level programming languages? How did the introduction of higher-level programming languages change computing?,Understand
+Why does the Internet have a decentralized structure?,Understand
+More than 90 percent of personal computers run a version of the Microsoft Windows operating system. Provide two (02) advantages and two (02) disadvantages of using Microsoft Windows OS?,Understand
+Define morality and ethics in your own words.,Remember
+What is the problem of moral luck?,Understand
+What is phishing?,Remember
+What characteristics of the Internet make censorship difficult?,Understand
+What is intellectual property (IP)? List down five (05) examples of IP.,Remember
+What is the difference between a trademark and a trade secret?,Understand
+"In what way, do digital video recorders provide viewers with less privacy than videotape recorders?",Understand
+Explain the difference between an opt-in policy and an opt-out policy.,Understand
+Facebook has introduced the Tag Suggestion feature. Discuss the morality of this feature with Kantianism and act utilitarian ethical views.,Evaluate
+What is the purpose of the Carnivore system?,Remember
+Explain increasing importance of computer simulations playing in science and engineering?,Understand
+What is whistleblowing? What harms does it cause? What benefits may it Provide?,Understand
+"In which conditions the release of a worm, virus, or Trojan horse would be morally justifiable?",Evaluate
+Write a Bourne Again Shell (BASH) script with the name Que01_AB that would perform the following tasks to store the details of students in the ICT department:,Create
+"Modify the above script in part (a) to store all the student details you entered into a file called, studentinfo.log' with the format given below:",Apply
+Write a shell script with the name Que01_C to separate the uploaded answer scripts batch-wise. Follow the steps given below:,Create
+Write a BASH script with the name Que02A that will perform the following tasks,Create
+Explain 5 benefits using Link State Protocol over Distance Vector Protocol?,Create
+Briefly explain the need of protocol in data communication.,Understand
+Compare the roles of MAC address and IP address.,Understand
+Explain the use of OSI Layers and Protocols?,Understand
+Write down the OSI model layers and two protocols associated with each layer?,Remember
+Briefly explain the following with suitable examples,Understand
+How many subnets are needed in the network?,Apply
+Which subnet mask will accommodate the number of IP addresses required for Room-114? How many usable host addresses will this subnet support?,Apply
+Which subnet mask will accommodate the number of IP addresses required for Room-279? How many usable host addresses will this subnet support?,Apply
+Which subnet mask will accommodate the number of IP addresses required for Room-312? How many usable host addresses will this subnet support?,Apply
+Which subnet mask will accommodate the number of IP addresses required for Room-407? How many usable host addresses will this subnet support?,Apply
+What is the first subnet to accommodate the largest LAN.,Apply
+What is the second subnet to accommodate the second largest LAN.,Apply
+What is the third subnet to accommodate the third largest LAN.,Apply
+What is the fourth subnet to accommodate the fourth largest LAN.,Apply
+"All data structure is obeying the triple structure such that, Domain, Function, and Axiom (D, F, A)'"". Briefly explain the triple structure of data structure.",Understand
+Discuss the following major operations of Data Structure.,Understand
+Explain the classification of data structure using a suitable diagram and example.,Understand
+"What is Time Complexity of an Algorithm and big o notation'? Briefly explain Best Case, Worst Case and Average Case of an algorithm.",Understand
+Calculate the Time Complexity of the following code snippet.,Apply
+"Briefly explain the term ""Array Data Structure"". Explain the advantages and Disadvantages of array data structure'?",Understand
+"Justify the following sentence, ""Linked List is better Data Structure than Array Data Structure”",Evaluate
+Draw the suitable diagram for the following primitive operation on Linked List Data Structure.,Create
+"Explain the term ""Last-in-First-out- using two (02) real world example. What is ""Push and Pop"" primitive operation on stack Data Structure?",Understand
+Convert the infix expression a / b * (c + (d - e)) into postfix form using stack Data Structure technique.,Apply
+"Define the terms, ""Queue Data Structure-, ""Front-, and ""Rear-. Fill the array space in each of the following situation and write the value of front, rear, and size in each situation.",Understand
+Write short note on following tree terminologies and find the value of them for the given tree.,Understand
+Construct Binary Search Tree for the given list of numbers and then. create the AVL tree using some suitable rotations.,Apply
+What is Depth-first search and find the Depth-first search order for the given graph when you start from vertex C.,Understand
+ Why do we need Sorting Algorithms when we use data structures?,Understand
+Write sort notes for the following term in the sense of Sorting Algorithms.,Understand
+Write the algorithm of Bubble sort step by step and sort the following unsorted array using Bubble sorting algorithm,Apply
+Briefly explain the Merge sort algorithm. And using Merge sort algorithm. sort the following unsorted array.,Understand
+Write all five (05) steps of Quick sort algorithm and use the Quick sort algorithm to sort the following array.,Apply
+List out four (04) fundamental features of Object Oriented Programming?,Remember
+Software developers often build models during design. List three (03) reasons for building object oriented models?,Understand
+Briefly describe what is an object in the context of object oriented programming?,Understand
+Mention two (02) object oriented programming languages?,Remember
+Write short note for the followings,Understand
+What is meant by UML?,Understand
+What are the two (02) types/Categories of diagrams available in UML? Give an example for each type?,Understand
+Briefly describe what the following UML diagrams are typically used for,Understand
+Briefly explain three (03) basic building blocks of UML,Understand
+What is meant by UML CASE tool?,Understand
+State two (02) open source UML CASE tools and two (02) Commercial CASE tools?,Understand
+State what is a use case diagram?,Understand
+Briefly explain the followings in a use case diagram,Understand
+What is the deference between Primary actor and Secondary actor in a use case diagram?,Understand
+Briefly explain the process of modeling use cases?,Understand
+Consider the following scenario,Understand
+Briefly explain what is a class diagram in object oriented analysis and design?,Understand
+What is the difference between class notation and object notation in UML?,Understand
+Represent the given information of Student class using class notation.,Apply
+Identify the relationships between the given classes of following diagrams,Understand
+Identify the classes of the system.,Understand
+"Draw a class diagram for this information, and be sure to label all associations with appropriate multiplicities.",Create
+"Write a Java program to implement a stack data structure using an arraydata structure. Size of the arrayis seven (07)(The elements are:13 2 78 5 4).The program should includepop(), peek(), and push() methods. As well as implement the followings:",Apply
+"Write a Java program to implement a queuedata structure using Linked listdata structure as following (The program include enQueue(), deQueue() and display() methods).",Apply
+Create a class called Sorting with main method,Create
+Create two integer arrays called arrl[] and arr2[] with 6 elements in main method as follow.,Create
+Create a void type of method called insertionSort() for insertion sort algorithm by using arr1[] array.,Create
+Create another method called bubbleSort() for bubble sort algorithm using arr2[] array.,Create
+"Display the output as follow,",Create
+Find the sum and number of nodes of the binary tree by creating separate two methods.,Apply
+"Display the In-order, Pre-order and Post-order traversal by creating separate methods",Apply
+Create method called findMaxMin() and display the maximum and minimum value of above binary tree.,Apply
+List out the categories of combinational circuit with one example for each,Remember
+Briefly explain .the difference between Odd and Even parity schemes used in Error Detection,Understand
+Show that the binary sum of Decimal Numbers 25910 and 61210 is 1000 0111 0001,Apply
+State 03 Applications of Half Subtractor,Remember
+Draw the circuit diagram of a 2-to-1 Line Multiplexer,Apply
+Table 1 is the truth table of a BCD8421 to 2421Code converter. Analyze and design the Circuit for this Code Convertor. Your answer must include the simplification steps and the logic circuit,Apply
+Define the categories of sequential circuits based on functions they perform.,Understand
+Briefly explain the statement,Understand
+The following is the State table of a sequential circuit that consist of two D flip flops A & B and an external input X.,Understand
+Connect a LED which shows RED for error and GREEN for no errors,Apply
+Explain the following three types of functional organization,Understand
+List five key responsibilities of the project manner in a project,Remember
+Define the term stakeholder. Who are the potential stakeholders in a software project?,Understand
+What is the Project Charter? Explain the contents of the project charter.,Understand
+Explain with What is project Work Breakdown Structure (WBS)? suitable example.,Understand
+Given the following activities.,Understand
+Briefly explain the following financial analysis methods for the project.,Understand
+Define the formula for calculating the NPV.,Understand
+"Calculate the Net Present Value (NPV) of a project which requires an initial invest of $265,000 and it is expected to generate a net cash flow of $50,000 each month for 12 months. Assume that the salvage (recover) value of the project is zero. The target rate of return is 12% per annum.",Apply
+What is Project Quality Management?,Understand
+Briefly explain the followings project quality control process.,Understand
+"Design Science Research Methodology is an emerging approach for Information Systems (IS) related research, and is recommended by the Association for Information Systems (AIS). This research approach typically consists of five phases, each of which leads to production of output as listed below.",Understand
+Explain all the components of the above argumentation model with respect to a selected IS related research claim that you would like to use for explanation purpose.,Apply
+"Select three of following concepts associated with Social Networks and Social Network Analysis (SNA), and briefly introduce each of the selected concept using suitable illustrative diagrams for example situations.",Understand
+Sentiment analysis is one of the important approaches in digital research in areas such as one in relation to social media. In this context opinion mining is a very useful tool to be adopted. Explain a framework that could be used in defining opinion that can capture major dimension and concerned aspects relevant with an illustration to a typical social network related research.,Understand
+construct a frequency table for the above data. Draw a histogram and a frequency polygon.,Apply
+Compute the sample mean. median and mode,Apply
+Calculate the variance and standard deviation.,Apply
+Draw a boxplot and a dot pot and discuss the behaviors.,Apply
+Discuss the skewness of the distribution. Based on the results. comment on the shape of the distribution.,Analyze
+Compare the height (in inches) of male (Sex=1) and female (Sex=2) students who participated in the study.,Analyze
+Examine the descriptive statistics and discuss the general shapes of the distributions.,Analyze
+Examine the correlation between weekly sales and their relative price levels.,Analyze
+Examine the descriptive statistics and discuss the behaviors of the variables.,Analyze
+Discuss the correlation between Income and Consumption Expenditures.,Analyze
+Estimate the regression equation and discuss the model validations.,Create
+Are there any data points that you would classify as outliers?  without outlier predict the body weight when the height is 190 cm.,Analyze
+Examination marks obtained by l0 students in three subjects (Subject-A and Subject-B) are given table 05.,Remember
+What is the first 24 bits in a MAC address called?,Remember
+Which of the following statements describe the network shown in the graphic? (Choose two),Understand
+Refer to the exhibit: For what two purposes does the Ethernet protocol use Physical Addresses? (Choose two),Understand
+Which two locations can be configured as a source for the IOS image in the boot system command? (Choose two),Understand
+What is the difference between a CSU/DSU and a modem?,Understand
+A Cisco router is booting and has just completed the POST process' It is now ready to fined and load IOS image What function does the router perform next?,Understand
+A network administrator cannot initiate a Telnet session with the indicated router. What is the cause of this failure?,Analyze
+At which layer of the OSI model does PPP perform?,Understand
+Which command encrypts all plaintext passwords?,Understand
+Which router IOS commands can be used to troubleshoot LAN connectivity problems? (Choose three),Apply
+Which two options are valid WAN connectivity methods? (Choose two),Understand
+Which Layer 2 protocol encapsulation type supports synchronous and asynchronous circuits and has built-in security mechanisms?. Refer to the exhibit. The two connected ports on the switch are not turning orange or green. What would be the most effective steps to troubleshoot this physical layer problem?,Understand
+Why will a switch never learn a broadcast address?,Understand
+What does a Layer 2 switch use to decide where to forward a received frame?,Analyze
+What are three benefits of implementing VLANs? (Choose three),Understand
+VLAN 3 is not yet configured on your switch. What happens if you set the switch port access VLAN 3 command interface configuration mode?,Apply
+"As a network technician, do you know which are valid modes for a switch port used as a VLAN trunk?",Remember
+Which two link protocols are used to carry multiple VLANs over a single link'? (Choose two),Remember
+Which two comrades can be used to verify a trunk link configuration status on a Cisco switch? (Choose Two),Apply
+Which item represents the standard IP ACL?,Remember
+On which options are standard access lists based?,Understand
+Which statement about access lists that are applied to an interface is true?,Analyze
+Which subnet mask would be appropriate for a network address range to be submitted for up to eight LANs. with each LAN containing 5 to 26 hosts?,Analyze
+Which two benefits are provided by using a hierarchical addressing network addressing scheme? (Choose two),Apply
+Given an IP address 172.16.28.252 with a subnet mask of 255.255.240.0. what is the correct network address?,Apply
+Ref.er to the exhibit. What is the most appropriate summarization for these routes?,Analyze
+A router receives information about network i91.168.10.0 24 from multiple sources.What will the router consider the most reliable information about the path to that network'?Refer to the graphic.,Analyze
+Which parameter can be tuned to affect the selection of a static route as a backup when a dynamic protocol is also being used?,Analyze
+Which command allows you to verify the encapsulation type (CISCO or IETF) for a frame relay link?,Apply
+Which two statements about static NAT translations are true?,Understand
+What are two benefits of using NAT?,Understand
+List out the essential elements of a symmetric cipher and briefly explain them?,Understand
+Compare and contrast a block cipher and a stream cipher?,Analyze
+"For each plain text p, substitute the cipher text letter C by using the following key E (5, p) = (5+p) mod 26 What will be the cipher text for the following plain text?",Remember
+List out and briefly explain two problems with the one-time pad encryption technique?,Understand
+Briefly describe the feistel cipher?,Understand
+Briefly describe the Data Encryption Standard (DES) algorithm with a help of flow chart?,Understand
+The following binary is the input for S-box of the one-round version of DES. Find the output from the S-box,Apply
+What is the purpose of the State array in Advanced Encryption Standard (AES)?,Understand
+How is the S-box constructed in AES?,Understand
+How many bytes in State are affected by ShiftRows in AES?,Understand
+Briefly describe MixColumns used in AES.,Understand
+Compare and contrast between AES and DES.,Analyze
+List out the principal elements of a public-key cryptosystem?,Remember
+Briefly describe roles of the public and private key in public - key cryptosystem?,Understand
+Briefly describe the three broad categories of applications of public-key cryptosystems?,Understand
+Perform encryption and decryption using the RSA algorithm for the following,Apply
+You are attempting to run an Nmap port scan on a web server. Which of the following commands would result in a scan of common ports with the least amount of noise in order to evade IDS?,Apply
+You perform a scan of your company's network and discover that TCP port 123 is open. What services by default run on TCP port 123?,Remember
+ICMP ping and ping sweeps are used to check for active systems and to check,Understand
+"When utilizing technical assessment methods to assess the security posture of a network, which of the following techniques would be most effective in determining whether end-user security training would be beneficial?",Analyze
+Which of the following types of firewall inspects only header information in network traffic?,Understand
+Which of the following items of a computer system will an anti-virus program scan for viruses?,Understand
+"While checking the setting on the internet browser, a technician finds that the proxy server settings have been checked and a computer is trying to use itself as a proxy server. What specific octet within the subnet does the technician see?",Remember
+A newly discovered flaw in a software application would be considered which kind of security vulnerability?,Analyze
+Which of the following tools will scan a network to perform vulnerability checks and compliance auditing?,Remember
+Which of the following programming languages would most likely be used?,Remember
+Describe how Service SET ID (SSID) operates and draw Five Wi-Fi Chalking Symbols,Understand
+List down three (3) Wi-Fi Encryption algorithms,Remember
+Compare and contrast WEP and WPA2 Protocols,Analyze
+Describe the TCP communication Flags and explain how three-way handshake works using a suitable diagram.,Understand
+Describe Banner Grabbing attack and list two (2) possible counter measures.,Understand
+List five (5) useful network vulnerability testing tools.,Remember
+Describe the Lifecycle of a virus.,Understand
+ABC Trade Investment is small company with a small network. Study the Exhibit Carefully.,Understand
+Make sure the entire network is able to ping PC X,Apply
+"If the Admin replaces the PC 1.1.1.10 instead of PC 1.1.1.1, the port FastEthernet 0/1 of Server Switch must ignore the Communication but still allow the 1.1.1.1 be connected back without admin involvement.",Understand
+Write a java program to accept a plain text and a key to convert it as Cipher text using Rail Fence Cipher algorithm.,Create
+Write a java program to read a plain text and a key and create a cipher text applying Play Fair Cipher technique.,Create
+Scan the 192.168.2.90 and List Down Open Ports.,Apply
+"By using the Above IP Address, Access the Web Server and provide the screenshot.",Apply
+Login to 192.168.2.90/sev-home/ . Provide the login screenshot.,Apply
+Find username and password for below Telnet Access.,Remember
+"By using above machine, if you want to change the root password. Firstly, where you are going to modify the parameters. Provide the screen shot.",Apply
+Given Machine (Raveen 1 — 192.168.2.91). Find the Apache Version.,Understand
+Pull out all the user accounts by using wpscan,Apply
+Crack the password for a user accounts question b that you find.,Apply
+Using sqlmap find the databases available in the below URL,Apply
+List down all the tables which are belongs to the database bricks.,Remember
+Find the columns in the table where you find question b.,Remember
+What it meant by software engineering?,Understand
+"""Software engineering is different when compared to other engineering disciplines like civil engineering, mechanical engineering etc."" Do you agree with this statement? Briefly explain your view by giving at least one reason.",Analyze
+Explain the difference between software engineering and system engineering.,Understand
+Write four (04) reasons for the failure of a software product.,Remember
+There are two classifications for software quality attributes as Bohem's Classification and McCall's Classification. Name two (02) attributes of each classification and give one (01) example for each attribute.,Remember
+List out four (04) characteristics of software process.,Remember
+Match the most suitable expecting goal with following software system?,Remember
+List down three (03) principles of agile methodology.,Remember
+Your development team has received three projects given as follow. Which project/projects can use waterfall model?,Analyze
+Discuss the characteristics of software development projects to which prototyping would be suitable.,Analyze
+Software Designing is an important process in system Development Life Cycle”. Do you agree with this statement? Briefly explain by giving two (02) reasons.,Analyze
+Define what is meant by requirement engineering,Understand
+List out the four (04) processes in requirements engineering.,Remember
+List down three (03) functional requirements for the above system.,Remember
+What is the deliverable at the end of the process in requirements specification?,Remember
+What is meant by requirement elicitation and analysis?,Understand
+The requirements document is an official statement of what the software system developers worked on. What should be included in the requirements document? Name any two (02) readers for each?,Understand
+"Following steps explain the ""customer is paying by cash"" scenario in Point-of—Sale system.",Understand
+Briefly discuss the need of software maintenance?,Understand
+List four (04) types of software maintenance and briefly explain them.,Remember
+List out four (04) software maintenance model.,Remember
+Propose one (01) strategy to reduce maintenance cost?,Apply
+What is the difference between Validation and Verification in software testing?,Understand
+"In a software program, there are two kinds of statements that we can clearly distinguish. What are those two basic program statements?",Remember
+"Following is a basic function that Computes the average of all those numbers in the input array in the positive range [MIN, MAX]. The maximum size of the array is AS. But, the array size could be smaller than AS in which case the end of input is represented by -999:",Analyze
+Draw a Control Flow Graph (CFG) for ReturnAverage().,Create
+"From the CFG, identify the set of paths to satisfy the complete statement coverage criterion.",Analyze
+"Identify additional paths, if necessary, to satisfy the complete branch coverage criterion.",Analyze
+"For each path identified above, derive their path predicate expressions",Analyze
+Solve the path predicate expressions to generate test input and compute the corresponding expected outcomes.,Apply
+"Are all the selected paths feasible? If not, select and show the path is infeasible, if it exists.",Analyze
+List these three (03) types of interfaces and describe them in brief.,Remember
+System Integration testing is performed at different levels of granularity. List these three (03) levels of Integration Testing.,Remember
+List five (05) common approaches that we can use to perform system integration testing and explain three (03) of them.,Remember
+Functional Testing is a key test type that is categorized under System Testing. Define what is Functional Testing and list down the types of Functional testing available in the industry.,Remember
+Following points discuss about seven test types categorized under System testing. Write the test type which is discussed in each point.,Understand
+Write short notes on following test types.,Understand
+Quality assurance testing has seven general principles. List three (03) of those general testing principles,Remember
+Draw a process flow diagram that reflects the main activities that a QA team conducts in a QA test cycle.,Create
+Write three (03) positive and two (02) negative test cases to test the following login screen. All required information needs to be given for each test case.,Apply
+"Briefly describe the ""four schools of thoughts"" perused in AI using appropriate examples.",Understand
+Discuss the evolution of Artificial Intelligence (AI) in past two centuries while emphasizing the key milestones.,Understand
+Explain how the 'Turing Test' can be adopted to evaluate modern intelligent systems.,Understand
+Discuss the influence of DARPA project by US Defense for the advancement of Artificial Intelligence (AI) through research.,Understand
+Discuss the social impacts of Artificial Intelligence in a context of 'Man-Machine Co-Existence’.,Analyze
+Why searching is important as a problem solving strategy?,Understand
+Evaluate the Breadth-First Search (BFS) and Depth-First Search (DFS) under the following criteria:,Analyze
+Why DFS is better than BFS?,Analyze
+What is the major drawback of DFS?,Understand
+Compare and contrast Depth Limited Search and Iterative Deepening Search (IDS).,Analyze
+What are the two (02) major types of knowledge? Which category is more influential for Artificial Intelligence?,Understand
+What are the essential requirements of a typical Knowledge Representation (KR) system?,Understand
+Compare and contrast the reasoning paradigms Deductive Reasoning Vs. Inductive reasoning.,Analyze
+Distinguish a proposition with a generic statement (Non- Proposition).,Understand
+Explain the terms 'tautology' and 'contradiction' using suitable examples.,Understand
+Prove the validity of the following propositional logic expression using a truth table.,Apply
+Explain the concept of forming a quantified sentence using 'quantifiers' by using appropriate examples.,Understand
+Express the following statements in predicate logic.,Apply
+Explain the quantified inference rules Existential instantiation and Existential generalization using appropriate examples.,Understand
+List the key steps of a Genetic Algorithm (GA).,Remember
+What are the key genetic operations take place in a typical GA?,Analyze
+Compare the two (02) GA types Generational GA with Steady-State GA.,Analyze
+Discuss the following issues occur in Fitness Proportionate Selection (FPS),Analyze
+Discuss the importance of the evolutionary computing using the real world applications of Genetic Algorithms.,Analyze
+What are the properties exhibited by any typical complex systems found in real world context?,Understand
+What is the 'Butterfly Effect'?,Understand
+"Explain the concept ""Intelligence as an emerging property of complexity"" using an appropriate example.",Understand
+Discuss the essential characteristics of a system comprised of Multi-Agents.,Analyze
+Define the term 'Rational Agent'.,Analyze
+Describe the Task Environment of an automated fire control robot using the parameters of PEAS.,Understand
+What are the questions those can be asked based on this knowledge?,Analyze
+Write prolog clauses to define the following relationships.,Apply
+Convert above rules into Prolog clauses.,Apply
+What do you conclude for each situation (below) by following the above rules? Save queries / corresponding responses (answers obtained through execution of the Prolog program) on a text / MS word file. This file also must be included in the submission.,Apply
+State the Technology Push/Demand Pull Theory- in terms of web 2.0 technologies,Understand
+Differentiate web 1.0 and web 2.0 technologies with four (04) key points,Analyze
+"List the Web 2.0 -Tech Push/ Demand Pull Layers"" and briefly explain each layer",Understand
+"One of the six big ideas behind web 2.0 is ""Individual production and user generated content"". Discuss how it is addressed in web 2.0 technologies",Analyze
+List out two (02) cloud service models and state their basic functions,Understand
+List three (03) common and three (03) essential characteristics of cloud computing,Understand
+State three (03) advantages of cloud computing and explain them briefly,Understand
+"Discuss the uses and importance of having virtual workspace in office environment, in terms of virtualization and cloud computing.",Analyze
+What is implied by each letter in the term SMART?,Understand
+State three (03) advantages of SMART governance,Understand
+There are different models of e-governance. State which model is highly significant for adopting in developing countries? Justify your answer.,Apply
+State and briefly explain the stages of e-governance.,Understand
+Define the term digital divide.,Understand
+State three (03) factors that induce the digital divide and three (03) possible solutions to digital divide,Understand
+Discuss how social data could be used in marketing to achieve competitive advantage.,Analyze
+Discuss how internet safety could be promoted among children.,Analyze
+What are the methods of collecting data; Explain with suitable examples.,Understand
+"In a biology experiment the lengths of 30 worms were measured, to the nearest 1mm. The results were as follows.",Understand
+Draw Bar than.,Apply
+"By using suitable method, compute the sample mean, median and mode.",Apply
+Calculate the Quartiles,Apply
+Briefly explain the following terms for grouped data,Understand
+Compute the following,Apply
+"For each of the following numbers, determine whether the number is rational or irrational. If the number is rational, express it in fraction form.",Understand
+Divide the polynomial 3x3 5x2 + 10x – 3 by 3x + 1.,Apply
+Define the set S := tx E,Understand
+What is multimedia? What could be the basic elements of multimedia?,Understand
+"Linear, Hierarchical and Network are basic taxonomies of information structure. Explain each with the aid of diagram and suitable example.",Understand
+Multimedia can be used in many applications among different industries / domains. Select one application in an industry / domain and explain it in brief.,Apply
+What is the use of reflection and refraction of light in multimedia application development?,Understand
+What is digitization? Explain how text can be digitized.,Understand
+What is rendering? What are the basic three (03) methods of rendering? Briefly explain each.,Understand
+"Calculate the file size of a music recorded at 24-bit stereo sound, 2 minutes 45 seconds long and at a 44.1KHz sample rate.",Apply
+"Explain the steps, how Sinhala voice is converted in to English voice.",Understand
+Important properties of an image are given below. Explain in brief why these properties are important for an image.,Understand
+What is virtual reality? Write a brief account on an application where virtual reality is highly used in a selective domain.,Understand
+What is MIDI? Differentiate MIDI sound from digital audio.,Understand
+What are the two (02) factors affect the Quality of the sound? Briefly explain each of it.,Understand
+"Using the image resources provided, manipulate an image as shown in Figure 01",Apply
+Create a new Photoshop Document having a width of 10 inches and 12 inches’ width with a resolution of 72 pixels/inch.,Apply
+"Using the appropriate tools and the resources provided, design the web pages as given in Figure 02 and Figure 03",Apply
+Provide the following hyperlinks in respective webpages,Apply
+"Define the term ""Computer Network"" in your own words by including the key terms.",Understand
+Briefly explain the importance of getting acknowledgement (feedback) in data 'communication.,Understand
+What are the two (02) types of digital transmission? State them briefly.,Understand
+"Differentiate the term ""Bandwidth"" in both Digital and Analog transmission.",Understand
+Briefly explain the following terms related to digital transmission.,Understand
+What is meant by Broadcasting Link? What are the two (02) types of Broadcasting Links?,Understand
+"Categorize the following multiple access methods under three (03) categories such Channelized Access Method, Random Access Method and Controlled Access Method",Analyze
+Differentiate CSMAJCD (Collision Detection) and CSMA/CA (Collision Avoidance) multiple access methods using their main functionality.,Analyze
+Draw separate diagrams to illustrate main four (04) physical Network Topologies.,Create
+What are the two (02) different techniques used in switched communication?,Remember
+Write down the suitable guided media type for the following interfacing (connecting) methods.,Remember
+Give four (04) types of electromagnetic waves which can be used as unguided media in communication.,Remember
+Differentiate the functions of Switch and Hub.,Analyze
+Write down the appropriate Protocol Data Unit (PDU) related to following OST reference model.,Remember
+State two (02) protocol names which work on Application layer of the OSI reference model.,Remember
+Explain about the MAC Address in brief.,Understand
+What are the four (04) layers of TCP/IP model? Which layers of OSI reference model are associated to Network Access layer of the TCP/IP model?,Remember
+Compare IPv4 and IPv6 by filling the following comparison table.,Analyze
+Briefly explain the following terms in IP addressing,Understand
+Write down four (04) multiple layers of Computer network security?,Remember
+What is meant by Cryptography?,Understand
+Relate the terms Internet and World Wide Web (WWW) in data communication.,Understand
+Differentiate CSMA/CD (Collision Detection) and CSMA/CA (Collision Avoidance) multiple access methods using their main functionality.,Analyze
+Write down the appropriate Protocol Data Unit (PDU) related to following OK reference model.,Remember
+"Define class, object an Method in java and explain them with an example using java.",Understand
+What is constructor. Write the purpose of a constructor in java classes.,Understand
+Write down the differences between the constructors and methods.,Analyze
+What is constructor chaining in java?,Understand
+Examine the code segments and fill the blanks with appropriate variables and coding.,Analyze
+Explain about inheritance in java.,Understand
+List out and describe the types of inheritance in java.,Remember
+Explain subclass and superclass in java.,Understand
+"Explain the concept with a simple code that multiple inheritance, is not supported in java through Class.",Apply
+What will be the output for the following coding?,Analyze
+Explain the concept of method overloading and method overriding in java,Understand
+Write the difference between method overloading and method overriding in java.,Understand
+Can we override a static method? State the reasons.,Understand
+Can we override a main method? State the reasons.,Understand
+Write a simple coding to explain the method overriding in java.,Apply
+Write a Java program for following scenario.Create a class named Vehicle and another class for create objects named VehRegestration.,Apply
+"Define the term 'internet"" in the context of communication in a networked environment.",Understand
+"State why HTTP is called as a ""stateless protocol""",Understand
+State two (02) limitations of Internet Protocol (IP) and further explain how those issues are addressed by Transmission Control Protocol (TCP).,Understand
+State the composition of an HTTP response?,Remember
+Explain the structure of an HTTP response based on the composition of the HTTP response.,Understand
+Define the term 'static document' in terms of static web pages.,Understand
+List four (04) basic functionalities of a web server.,Remember
+"State what is meant as ""eavesdropping"" and further give two (02) common encryption standards used to prevent eavesdropping",Understand
+State how the dynamic web pages are classified,Understand
+"Compare the classifications stated in d (I), based on the tasks performed during a request-response between client and server.",Analyze
+Say you are given a task to develop an 'e-commerce' web application. Which client-server architecture will you choose to implement this? Justify your answer.,Evaluate
+What is the client Server computing architecture? Illustrate with suitable diagram.,Understand
+Compare and contrast the Static website and the Dynamic website?,Analyze
+Discuss in detail about the components of information architecture,Understand
+What are some of the common lists that can be used in HTML when designing a Web page?,Remember
+How do you create links to sections within the same page in HTML?,Apply
+Describe the followings in HTML:,Understand
+Differentiate Forms and Frames in HTML with an example,Understand
+What are the Conditional statements in JavaScript? Briefly describe,Remember
+What are the predefined functions in JavaScript? Give 3 examples with syntax,Understand
+Describe briefly following DOM objects,Understand
+Explain briefly how PHP generates HTML webpages,Understand
+Briefly describe the following Functions in PHP:,Understand
+Explain the following PHP function for MySQL:,Understand
+"Design a Home page which describe their important services. Contact page through which one can contact them for queries via their web site.The Science, IT, Management pages also should be created",Create
+"Write JavaScript functions to find the Validate the Contact page (Figure 02 in question 01) properly as there should not be any null entry,",Apply
+"Write a JavaScript program to display the user entered name in the name textbox in the Contact page (Figure 02 in question 01) and a message that ""Your message has been sent successfully"" using a message Box when a send button is being clicked",Apply
+"Develop the following Simple PHP Calculator to perform two number arithmetic calculation,",Apply
+Write a Program to swap the following two numbers in PHP:,Understand
+Create a database called MyDreamJob and save all the entries from (figure 02-The Contact Page) in question 01 into the database,Create
+Draw and name the key elements of triangular architecture of Web Services.,Create
+Explain why we need to Serialize and Deserialize data when we send data over the network between client and server systems.,Understand
+Why is JSON data formant preferred over XML today?,Analyze
+What are the advantages of Network Message Formats being human readable?,Remember
+How do you measure efficiency of a data format? How does meta data have an effect on the data efficiency?,Evaluate
+Compare and contrast Thin vs Rich Clients in 2-Tier architecture.,Analyze
+Draw the layers and name the elements of Three Tier applications.,Create
+Explain the role of Controller in MVC (Model-View-Controller) architecture,Understand
+Why is HTTP the most popular application layer protocol?,Understand
+How does loosely coupled systems achieve their loose coupling?,Understand
+How do we achieve CRUD (Create-Read-Update-Delete) with HTTP verbs on resources in REST applications?,Apply
+What are the main elements we should have in a REST API document to help developers Understand how to use the API?,Understand
+What is a WSDL?,Remember
+"What is the main use of ""Content-Type"" HTTP header in REST applications?",Remember
+What are the 4 main elements of an HTTP URL? Explain using an example.,Understand
+Explain what is meant by Virtualization in Cloud Computing.,Understand
+"In Cloud Economics, explain what is meant by ""pay as you use"".",Understand
+Explain what is meant by Infrastructure as a Service (IaaS) by providing examples of kinds of computing assets associated with such a service.,Understand
+"If you are looking for cloud services, what are the advantages of using Software as a Service (SaaS).",Understand
+Explain what is meant by Hybrid Clouds.,Understand
+What is meant by Secure System Development Life Cycle? Why is it required in the system development?,Understand
+"Define the term ""Information assurance"" in your own word by considering Information security.",Understand
+What are the five (05) pillars of Information Assurance?,Remember
+Briefly describe the following service paradigms of Information Assurance,Understand
+Draw the model for Information Assurance Analysis by including all properties.,Create
+"Define the terms threat, attack and vulnerability in information security with at least three examples for each.",Understand
+Name five (05) types/categories of security firewalls based on the firewall process mode.,Remember
+Relate the above answered (Question 02: b) firewall types with layers of the OSI reference model of networking by filling the blanks.,Analyze
+What is meant by Asymmetric Cryptography? Differentiate the use of Asymmetric Cryptography in public key encryption and Digital signature.,Understand
+You have been requested to do an encryption using Polyalphabetic substitution technique to encrypt the sentence,Apply
+What are the three (03) main causes of unethical or illegal behavior in Information Security? How can be deterred each of them?,Understand
+What are the three (03) main security controls need to be implemented for a successful security policy?,Understand
+"Define the terms policies, standards and practices in information security. Illustrate the relationship among them?",Understand
+What are the five (05) criteria to establish and enforce policy to maintain Information security? Explain them briefly.,Understand
+Briefly explain three (03) main critical characteristic of information in the principle of information security.,Understand
+What is meant by Digital forensics? Differentiate Digital Forensics and Data Recovery clearly?,Understand
+Name any five (05) types of Digital forensics.,Remember
+Briefly explain the five (05) basic stages of Digital forensics process.,Understand
+What is e-commerce? List down five (05) advantages of e-commerce in technology perspective.,Remember
+Briefly define with example the following major types of e-commerce:,Understand
+There are key elements to produce good business model. Briefly explain the following key elements,Understand
+"Discuss, five (05) potential limitations on the growth of B2C e-commerce.",Understand
+What advantages does client/server computing have over mainframe computing?,Understand
+Briefly describe the benefits (04) of Internet-II Technology.,Understand
+What are the issues involved in choosing the most appropriate hardware for an e-commerce site?,Analyze
+Scalability of hardware is one of the important factors in e-commerce site design. Explain (with illustration) the two different ways of scaling the hardware.,Understand
+Identify five (05) most common and most damaging forms of security threats to e-commerce sites. Briefly describe each.,Understand
+"Describe how technology helps secure Internet communications channels and protect networks, servers, and clients.",Understand
+Describe the features and functionality of electronic billing presentment and payment systems.,Understand
+What are the major similarities and differences between exchanges and e-distributors?,Understand
+What are the two (02) advantages and two (02) disadvantages of online advertising? Provide two (02) each,Understand
+What is clickstream behavior and how is it used by marketers?,Understand
+How does marketing on LinkedIn differ from marketing on other social networks?,Understand
+"Define the term ""supply chain"" and explain how Supply Chain Management (SCM) systems attempt to support the e-commerce.",Understand
+Define leadership and relate it with different powers,Understand
+Differentiate between leaders and managers,Understand
+Write short note on upward communication,Remember
+List different categories of managerial roles and describe how to apply them in an organizational setting,Understand
+Explain about how Theory X and Theory Y can be applied to an organization of your choice,Understand
+Write a brief note on interviewing.,Remember
+Diagrammatically explain the conflict process,Understand
+Outline different components of attitudes,Understand
+"Describe about ""The Big Five Personality Theory""",Understand
+"Outline about Vision, Mission, Values, Strategies, Goals, Objectives and Action plan and indicate the link between them",Understand
+"Assume that you are a Junior IT Manager working in a reputed organization. You are in-charge for receiving orders for IT equipment. In the past, you received more orders for various IT equipment’s. Recently, you receive poor orders.",Analyze
+"Assume that you wish to make an oral presentation on ""Leadership and Communication Skills"". List what key areas you will consider for making such presentation",Apply
+"What does the acronym URI, stands for?",Remember
+Identify which of the following is not a valid URL format and explain why,Analyze
+In the basic Client- Server model describe briefly major characteristics of the client software.,Understand
+All web documents can be grouped into three categories according to the time at which the document contents are determined. Describe briefly these three categories.,Understand
+A programmer knows that cookies may compromise the information on the servers that he uses. Explain briefly the role of a cookie.,Understand
+Briefly explain three major uses of scripting language on the client side. Give one reason why server-side scripting is essential.,Understand
+Detailly describe the major characteristic of the following internet technologies,Understand
+Name two popular web servers. Describe the operations of both a web server and a mail server?,Understand
+Describe two common internet protocols (other than FTP & HTTP) with their usages.,Understand
+Describe the role of HTTP and FTP in transmitting/transferring information over the internet. Compare these roles against the role of POP.,Understand
+Compare and contrast peer-to-peer and client/server network architectures by illustrating with examples where each type is appropriate than else.,Analyze
+Answer the following questions based on the sample HTTP response below.,Analyze
+Write down TWO examples for Client side programming languages and TWO examples for Server side programming languages.,Remember
+What is meant by Service Oriented Architecture?,Understand
+"""We can replace HTML by XML"". Briefly explain this statement.",Understand
+What is called Tight coupling?,Remember
+"""We can use GET method instead of PUT method to create a resource"". Do you agree with this statement?",Evaluate
+What are the advantages of using PHP in web development?,Understand
+"Using PHP, set up an array to hold the following values in their order: 12, 34, 52, 27, 13, and 40. Write a program to get the average of above numbers.",Apply
+"Briefly describe following ""Supergloble variables"".",Understand
+"Create the following index.html, style.ess and script.js files.",Create
+Write the structure of the HTML page and link all CSS and JS files into index.html,Create
+Write the code for producing the output page as Fig-01.,Create
+Validate your form's text boxes using JavaScript Validation as follow.,Apply
+Write the code for develop the login form in fig-02 and Registration form as Fig-03.,Create
+Validate the Registration form to check the empty value of textboxes.,Apply
+Register two user called admin and student,Apply
+"If the user Login with admin status, it must redirect to dashboard.php file with 'Welcome Admin'",Apply
+Create a table called student table in examdb and insert three recodes.,Apply
+Create a connection between form (studentform.php) and database (examdb) using php.,Apply
+If the student data inserted successfully it should redirect to view.php and it should show all student's details in table format,Apply
+"Additionally, add two (02) more columns with the title ""Edit"" and ""Delete"" in student table.",Apply
+"Write php code for the delete action, when click the delete link a pop up message ask the conformation of delete process and if yes it delete from the database.",Apply
+Briefly discuss the differences between Microcontroller and Microprocessor.,Understand
+Why is the Reduced Instruction Set Computer (RISC) Architecture suitable for Microcontroller over Complex Instruction Set Computer (CISC)?,Understand
+List down all the types of memories are used in Microcontroller. Why is EEPROM better than EPROM?,Understand
+Write short notes on following terms.,Understand
+Why do we use low level programming language to program microcontrollers?,Understand
+What are the two types of serial communications and briefly describe each of them?,Understand
+"Describe the term ""Baud Rate"". If we have crystal of frequency 11.059M Hz and we want to configure the serial port to 19200 baud rate, Calculate the value loaded in Timer Register TH1 when SMOD=0 and SMOD=1",Apply
+List out five (05) types of storage registers which are used in Microcontroller.  Write the Mnemonic instruction to Adds the Register to the Accumulator with carry flag.,Understand
+What is social computing? Briefly explain the social computing by providing two examples.,Understand
+List down five (05) purposes of social computing in five (05) different domains.,Understand
+What is web 2.0? Compare and contrast web 2.0 & web 1.0,Analyze
+What is digital divide? State how digital affects the students in the state universities.,Understand
+Who can be the victims of the digital divide? List down five (05) ways to reduce the gap in digital divide.,Understand
+Account on five (05) major internet related risks.,Understand
+What are the five (05) ways to overcome internet related risks among the children?,Understand
+Briefly explain the purposes of human computer interaction in the social view point? List down minimum five (05) of them.,Understand
+"What is meant by ""ergonomics""?",Understand
+ Briefly describe of the significance of e-governance in the followings:,Understand
+Provide five (05) suggestions to enhance the e-governance in regard of ICT application and adoption.,Understand
+What is cloud computing? State three (03) advantages of cloud computing and explain them briefly.,Understand
+List out three (03) common and three (03) essential characteristics of cloud computing,Understand
+What is virtualization? What are the four (04) advantages of virtualization?,Understand
+What are the three (03) challenges of cloud computing? Explain in brief,Understand
+Are there any outliers in the data set?,Analyze
+Draw the probability plot (P-P plot) and discuss the behaviors,Analyze
+"Compute the sample mean, median, mode, variance and standard deviation",Apply
+"Discuss the skewness of the distribution. Based on the results, comment on the shape of the distribution.",Analyze
+Examine the descriptive statistics and discuss the general shapes of the distributions.,Analyze
+Calculate 99% confidence interval for the best estimator that describe in part (a).,Apply
+Discuss the correlation between Hart Rate and Age.,Analyze
+Plot Hart Rate against the Age. Does it appear that a simple linear regression model will be a suitable model?,Analyze
+Estimate the regression equation and discuss the model validations,Analyze
+Construct the scatter plot.,Apply
+Calculate correlation coefficient between Age and Glucose Level. Write down your comments?,Analyze
+What is the general shape of the distribution?,Analyze
+Examine the descriptive statistics. Which statistic do you think best estimates the center of the distribution?,Analyze
+Calculate 99% confidence interval for the best estimator that describes in part b,Apply
+"What is ""Lossless Compression""?",Remember
+Differentiate Composite Analog Video from Component Analog Video from their basic definitions.,Understand
+Briefly explain the categories of Animation,Understand
+Define the following terminologies,Remember
+State the Nyquist Sampling Theorem.,Remember
+Calculate the size of the audio in MB if its recording is 60 minutes long?,Apply
+Find the Data Transfer Rate in MB /minute,Apply
+Compare and Contrast MIDI and Digital Audio.,Analyze
+Define the following terminologies used in Video Editing,Remember
+"Define the term ""Multimedia'""?",Understand
+Briefly explain the above statement.,Understand
+Mention two (02) advantages of compressing a multimedia file.,Understand
+Differentiate the Path Animation from the Frame Animation using their primary definition.,Understand
+Write brief notes on any two of the following Broadcast Video Standards.,Understand
+List out the disadvantages of compositing video components as one signal.,Understand
+"Briefly describe the differences between a ""Synchronous Multimedia Application"" and an -Asynchronous Multimedia Application"".",Understand
+What is the bit depth of such monitor?,Understand
+Calculate the number of unique colours that could be represented by such monitor,Apply
+Classify them with a suitable example for each category,Analyze
+"Differentiate ""Lossy Compression"" from ""Lossless Compression"".",Understand
+"List out the essential properties of an ""Interactive Multimedia"".",Understand
+"What is ""MPC""?",Remember
+Give a file format used for each of the components of Multimedia.,Remember
+"Explain the role of ""Multimedia Evaluation"" in developing a Multimedia Product.",Understand
+Define the following terminologies used in Video Editing.,Remember
+List five uses of computer networks,Remember
+Explain the difference between synchronous and asynchronous data transmission?,Understand
+Explain the following channel effect on data transmission.,Understand
+What is a Network Topology?,Understand
+Briefly explain the following network topology,Understand
+What is data transmission media? Explain the various media used for data transmission in computer networks.,Understand
+Mention the advantages of fiber optics media compare with other media,Understand
+What is client-server network? Explain the advantages of client-server network,Understand
+List the seven layers of the Open Systems Interconnection (OSI) reference model.,Remember
+Explain the main function of any four layers of the OSI reference model.,Understand
+Briefly explain the following switching techniques.,Understand
+What is an IP Address?,Remember
+Answer the followings.,Understand
+Explain the differences of IPv4 and IPv6.,Understand
+Explain the basic functions of the following network devices.,Understand
+Define class and object in Object Oriented Programming (OOP).,Understand
+Compare and contrast the constructors and methods.,Analyze
+"Will the following code compile without any errors? If yes, then what will be the output? If no, then find out the errors.",Evaluate
+What are the various access specifiers available for Java classes?,Remember
+What are the benefits of using inheritance,Understand
+Explain the concept with the aid of a simple example that multiple inheritance is supported in Java through interfaces,Understand
+What are the differences between abstract class and interface,Understand
+Can we declare a class as Abstract without having any abstract method? Briefly explain your statement.,Understand
+Can an abstract class have constructors in. Java? Briefly explain your statement,Understand
+In which situations you may prefer to use the keyword 'this' in Java programming? (specify three (03) situations).,Understand
+List out and describe the types of inheritance supported in Java,Understand
+Write a simple program by applying OOP concepts to count the number of occurrences of any character in a given string.,Apply
+What are the benefits of using inheritance,Understand
+Explain the concept with the aid of a simple example that multiple inheritance is supported in Java through interfaces,Apply
+What will be the output for the following code of the program?,Evaluate
+Write the difference between method overriding and overloading in Java,Understand
+"Describe the term ""Web"" in your own words",Understand
+What is the difference between a webpage and a website?,Understand
+Compare and contrast static webpage and dynamic webpage,Analyze
+Define the term web application and give two (02) examples for web application.,Remember
+What is meant by web hosting?,Understand
+Define the term Internet and mention three (05) the internet services,Remember
+Briefly explain the relationship between the Internet and WWW,Understand
+State is what is URL and write the syntax of an URL,Remember
+What is meant by protocol and Ove two (02) protocols relevant to web and internet.,Understand
+Briefly discuss how HTTP works.,Understand
+What are the limitations of HTTP?,Understand
+Differentiate between HTTP and HTTPS,Understand
+State what is web designing,Understand
+Briefly discuss the phases of web designing process,Understand
+Mention five (05) important skill needed for a web designer,Remember
+Write short notes for the following,Understand
+Write a Java program to fulfill the following requirements of a usual Banking system,Create
+Request the user to enter their choice from the above MENU list,Apply
+Implement the appropriate methods to complete the tasks mentioned in the above MENU list.,Create
+"If a user enters 2, then your system should do the function in deposit to a bank account.",Apply
+"If a user enters 3, then your system should do the withdrawal function in the bank account.",Apply
+"If a user enters 4, then your system should do the function Print account-information to display the information of the account given as input.",Apply
+Create a superclass called Car with the following variables,Create
+Create a subclass Truck of Car class with the following special attribute:,Create
+"Create another subclass of Car and name it as Ford. Within the class, create the following fields:",Create
+Define the term Distributed System? Give two (02) examples of Distributed System.,Remember
+Briefly explain three (03) advantages of Distributed System.,Understand
+State 03 (three) advantages of workstation-server model over workstation model.,Understand
+Illustrate Mini-Computer Model with a suitable Diagram,Create
+Explain the validity of the following statement.,Evaluate
+What is meant by Open Distributed System?,Understand
+Briefly explain the importance of such standard for distributed systems.,Understand
+State the Basic Standards of RM-ODP,Remember
+What is a Viewpoint in RM-ODP? List out the generic viewpoints provided by RM- ODP framework,Remember
+Distribution transparency provides a uniform simplified view of the distributed system for the programmer and end user. Briefly explain three (03) of the distribution transparencies.,Understand
+Differentiate Layered architecture from Object-based architecture. Use suitable diagrams in support of your answer.,Analyze
+Three-tier Architecture of Distributed Systems consists of User-Interface Level. Processing level and Data Level. Explain how an Internet Search Engine works based on this architecture.,Understand
+Write short notes on one of the following hybrid architectures.,Understand
+Differentiate Direct Communication from Indirect Communication of Message Passing Model. Compare and Contrast the properties of their communication links.,Analyze
+Define the following terms involved in Remote Procedure Call (RPC),Remember
+Calculate the following using Christian Algorithm,Apply
+Briefly explain the Architecture of Remote Method Invocation (RMI) including a suitable diagram.,Understand
+List out the three (03) classes of Cloud Computing Services.,Remember
+What do you mean by Information Security?,Understand
+List out the critical characteristics of information that needs to be ensured,Remember
+Differentiate the terms vulnerability and attacks,Understand
+A successful organization should have multiple layers of security in place to protect its operations. List out and describe those layers of the security process.,Understand
+Write down three essential functions of Information Security performs for an organization,Understand
+State any five possible information Security threats to organizations.,Understand
+State any five possible information Security threats to organizations.,Understand
+"Draw the CNSS Security Model of McCumber cube with the proper labelling, and write the required control or safeguard that addresses for any of the cells of this Cube.",Create
+What do you mean by the cryptography,Understand
+"Find out the ciphertext of the original message ""SOUTHEASTERN UNIVERSITY OF SRI LANKA"" using the following",Apply
+Give some international laws and legal bodies which are related with for Information Security.,Understand
+What would be the contents of malicious codes?,Remember
+"Describe briefly the term ""Forensics.""",Understand
+What are the steps included in investigation triad?,Remember
+"Discuss the requirements to investigate, and the recommended steps for an ""Internet Abuse Investigation.""",Remember
+What type of security was dominant in the early years of computing?,Understand
+Briefly describe the following major types of e-commerce;,Understand
+Write down three (03) key elements of a business model and account on each of it.,Understand
+Briefly explain the followings in the context of B to C:,Understand
+Define what is cloud computing? Provide three (03) advantages and three (03) risks of cloud computing by providing suitable examples.,Understand
+"Briefly describe what is ""click stream behavior"" in online consumer behavior model and list down at -least three factors of click stream behavior.",Understand
+"Briefly describe the followings in regards to ""Revolution in Internet Marketing Technologies"".",Understand
+List three (03) -Factors to be considered in website optimization. Briefly describe each of them.,Understand
+List important factors to be considered when an E-Commerce site is developed. Briefly describe each of the factors.,Understand
+Briefly describe three (03) advantages and three (03) disadvantages of online advertisement.,Understand
+Briefly describe what social marketing is and explain why social marketing is important. State three (03) risks associated with social marketing?,Understand
+State five (05) most common security threads in the E-commerce environment and briefly describe each of them.,Understand
+"Explain the security threads in 4(a), can be mitigated.",Understand
+Define what encryption is. Briefly explain two types of encryption methods available.,Understand
+Explain how you will develop the security plan. You should provide the illustration to justify the plan.,Create
+"print the message ""CIS 22042 — Practical Examination- with three (03) processes",Apply
+to send and receive number 50 (an integer value) from process 0 with two (02) processes,Apply
+to calculate the time of an MP1 communication with four (04) processes,Apply
+Create an IDL file for the above task,Create
+Compile the above IDL file using rpcgen,Apply
+Modify your Server Program to calculate the circumference and area for a radius given by client,Create
+Modify your Client Program to obtain the radius from user and to display the results,Create
+Compile and run your programs to achieve the above task,Apply
+Create a Remote Interface Program,Create
+Create Remote Class Implementation of the interface in part a.,Create
+Compile your Interface and its Implementation programs,Apply
+"Using rink command, compile your class file.",Apply
+Create the Server Appilication of your program,Create
+Create the Client Application of your program,Create
+Compile and run your programs to achieve the above task,Apply
+Describe all the four elements of transformational leadership.,Understand
+What are the activities that managers should avoid in order to make a team successful in its activities? Briefly explain,Understand
+Briefly explain the benefits of resolving conflicts in an organization.,Understand
+Describe this statement,Understand
+What are the tactics that a leader can use to make his/her public speaking successful?,Apply
+Briefly explain the tips that an interviewee can use to accomplish this goal.,Understand
+Briefly explain about the component of the client-server model and the process which happens in it,Understand
+List out five types of server and briefly explain its usages.,Remember
+What are the Benefits of N-Tier Architecture?,Understand
+Briefly explain the following N-Tier architecture using suitable diagrams,Understand
+"Define what is mean by ""Design pattern"".",Understand
+Explain why we use Singleton design pattern.,Understand
+Briefly explain the Strategy Design pattern and explain its' by using an example,Understand
+List out and briefly explain the component of the MVC Design pattern,Remember
+"Define what is mean by ""Persistence' And differentiate those two ways",Understand
+Fill in the blanks using suitable keywords and words.,Apply
+What is a Web Service and how does it work?,Understand
+What does the Acronym SOAP stand for? And briefly explain the term.,Remember
+Discuss the mechanism of SOAP by using a suitable diagram.,Understand
+"Define the term ""SOAP encoding"" and list out the rules for SOAP encoding.",Remember
+What is meant by WSDL and write the general structure of WSDL,Understand
+Why we use Data Base Management System (DBMS) over the traditional file system and list out the types of DBMS.,Understand
+Why we use Data Base Management System (DBMS) over the traditional file system and list out the types of DBMS.,Understand
+What is Remote Procedure Call and list out the all steps in RPC?,Remember
+Discuss the Stub and Skeleton using a diagram,Understand
+Describe the purpose of Software Configuration Management System in the web application development.,Understand
+Briefly describe each of the following terminologies.,Understand
+Write a PI-IP program to create a Student class. It should have the following two public variables and its constructor() function should be created with two parameters(name and regnum):,Create
+"Create a function inside the Student class to display the students' details. Which should be named as ""display()""",Create
+"Create a function inside the Student class to display the students' details. Which should be named as ""display()"".",Create
+"Define four (04) objects stu1, stu2, stu3 and stu4 respectively.",Remember
+Pass the following values to the variables (stuName and stuRegNum) via the created objects.,Apply
+Display the above data by using created objects and PHP “echo”,Apply
+ Create another class Subject and inherit the Student class,Create
+Create an object for the Subject class and call the constructor of the Student class via passing two values (student name and student registration number).,Create
+Finally call the display() function using created Subject class.,Apply
+"Create a simple web application called as ""DateWebApplication"" in NetBeans IDE by using GlassFish as a server.",Create
+Create an index.jsp file under the project.,Create
+"Create a simple webpage to check that whether today is a weekday or weekend. Assume that today is a 5th day of the week & 6, 7 are weekend days.",Create
+Create a simple webpage to print all the days of a week in different font size as shown below,Create
+Create a HTML file email-validate.html with the following user interface,Create
+Create a JavaScript file to validate the email using regular expression,Create
+Define & differentiate between microcontroller and microprocessor.,Understand
+Briefly define the following terms with a suitable example using microcontroller series.,Understand
+List out the hardware features of a microcontroller and briefly explain five of them.,Remember
+What are the factors that require taking into account choosing a microcontroller for an application?,Understand
+Compare and Contrast RISC-based microcontroller and CISC-based microcontroller.,Analyze
+What type of microcontroller is PIC,Understand
+What do you mean by micro in the microcontroller?,Understand
+What is the bit size of the 8051 microcontroller?,Remember
+How many analog pins are used in the Arduino Mega board?,Remember
+Arduino IDE consists of default functions. What are they?,Remember
+What is the microcontroller used in Arduino UNO?,Understand
+How many built-in timers in the PIC 18F452 microcontroller,Remember
+Which devices are specifically being used for converting serial to pal to serial respectively in the microcontroller?,Remember
+"Which of the following statement explains, why the baud rate communication?",Understand
+"Define the term ''Enterprise Architecture"".",Understand
+Briefly explain your view by giving at least one reason.,Understand
+What is the primary goal of Enterprise Architecture?,Understand
+State two (02) benefits of Enterprise Architecture in the following sectors.,Remember
+Define the term Enterprise Architecture Management (EAM),Understand
+What is the difference between Enterprise Architecture (EA) Governance and Information Technology (IT) Governance?,Understand
+Describe the role of an Enterprise Architect in terms of Enterprise Architecture Management (EAM),Understand
+Match the following key words or phrase with the relevant core activity of Enterprise Architecture Management (EAM) by writing the appropriate letter (A-H),Apply
+What is an EA (Enterprise Architecture) framework?,Understand
+Define the following frameworks and give one (01) purpose of using those frameworks,Remember
+Give one (01) similarity and one (01) difference in between the Water fall model software Development Life Cycle and TOGAF?,Analyze
+List out two (02) Architecture Tools?,Remember
+Define the term Maturity model relevant to Enterprise Architecture,Understand
+A maturity model can be best described with the Maturity Grid and the grid is made up of three parts. What are those parts and define them briefly?,Understand
+Use the following Maturity Model Grid to answer the questions below.,Apply
+State four (04) reliable published sources that can be used as literature in your final year research project.,Remember
+"What is meant by ""peer review""?",Understand
+One of the main factors for a reliable source of literature is peer review. State four (04) more factors that would assist one to identify a reliable source,Analyze
+List four (04) reliable internet based sources through which one may find reliable literature,Remember
+"Out of the sources mentioned above, which source / sources could be more reliable",Evaluate
+List five (05) important responsibilities of a research student.,Remember
+Briefly explain the importance of maintaining good academic and professional relationship between the research student and a supervisor?,Understand
+Generate the animation file (secondAnim.xml) on NetAnim animator,Apply
+Upload the secondAnim.xml file into NetAnim animator and export packet table,Apply
+Generate Ascii Trace files for both pointtopoint nodes and csma nodes,Apply
+Upload the secondPoint2Point.tr file into the TraceMetrics analyzer and export the details about pointtopoint node 1,Apply
+Again upload the Secondcsma.tr file into the TraceMetrics analyzer and export the details about csma node 3,Apply
+Generate the packet capture(.pcap) file for csma node 2,Apply
+Run the csmaNode2 .pcap file on wireshark and save the I/O graph,Apply
+"Create ""details.txt"" file using the given table and then create the plot file (name as firstplot.plt) that should satisfy each of the following statements",Create
+Run the above plot file(firstplot.plt) on gnuplot program and generate the output (output] .pdf) file.,Apply
+"Is a ""bug"" same as a ""vulnerability""? Justify your answer",Evaluate
+Explain what is risk and write a definition?,Understand
+How a control can solve the risk management problem?,Apply
+List out the steps for ISO 27001 standard implementation,Remember
+Explain the three methods of mitigating a Distributed Denial — of- Service (DDOS) attack.,Understand
+Which country seems to be generating the most attacks,Remember
+Which country seems to be the most targeted?,Remember
+Explain your methodology. More creative you get more marks you will achieve.,Create
+Provide an example for each stating how IPS can change,Apply
+Explain the following to code execution in a memory segment,Understand
+"Briefly discuss the term ""Mobile Computing"" and ""Android""",Understand
+List out five Android operating system version and briefly explain the Android operating system Architecture using a suitable diagram,Remember
+Explain the Android Activity lifecycle with suitable diagram by mentioning seven (07) callback methods,Understand
+Write short notes on following terms,Remember
+Define the term Relative layout and describe the power of Relative Layouts.,Understand
+Write short notes for the following layouts;,Remember
+Differentiate two types of Intent in Android and briefly express the process which happens when one activity call another activity using Intent.,Understand
+List out and explain the Fragment life cycle and explain the purpose of Inflater in Fragment.,Remember
+Briefly describe the process when content provider share the data and content resolver receive the data,Understand
+Define the following data storage in Android environment.,Remember
+What is Service Oriented Architecture (SOA)?,Understand
+Explain the following,Understand
+Give five (05) characteristics of SOA,Remember
+Explain what is Simple Object Access Protocol (SOAP)?,Understand
+What are the elements of SOAP message structure?,Remember
+What are the syntax rules for SOAP message?,Remember
+Mention the advantages of SOAP?,Remember
+Explain what is Web Service Description Language (WSDL)?,Understand
+Explain what is the WSDL document structure? And mention the general structure of a WSDL file.,Understand
+Write the appropriate TAG elements for the followin õ W SDL file created in Visual Studio.,Apply
+Explain what is Representational State Transfer (REST)?,Understand
+What are the HTTP methods supported by REST?,Remember
+Why use JavaScript Object Notation (JSON)?,Understand
+Convert the following JSON code to XML,Apply
+Design the following layout in android,Create
+Create an XML file with the following instructions,Create
+"Write the Javascript codes for the following statements, using you above xml file and XML DOM parser.",Apply
+Create a simple calculator use WSDL and ASP.Net Web form used visual studio 2013,Create
+Create a calculator web service,Create
+Create simple calculator look like,Create
+Add Service References in calculator user interface project,Apply
+What is meant by a Sensor in the context of Embedded Systems?,Understand
+Explain how sensors can be classified using one of the schemes specified below,Understand
+Give examples for sensors under any two selected schemes specified in above (i).,Apply
+Distinguish between an Active Sensor and Passive Sensor,Understand
+"Using appropriate examples, briefly describe Actuators commonly used in Embedded Systems.",Apply
+What is meant by an interrupt in the context of Embedded Systems?,Understand
+State the types of interrupts,Remember
+List three communication protocols based on serial communication standards.,Remember
+Perform a requirement analysis for a real-time operating system (RTOS) specifically designed for Embedded Systems.,Analyze
+Draw the schematic diagram as in Figure 01 (in Page 2) using Proteus software.,Create
+Create a Proteus simulation project to simulate your embedded system design.,Create
+Write a C program to implement the above specified requirements.,Apply
+"What are Supervised Learning, Unsupervised Learning, and Reinforcement Learning?",Understand
+Differentiate Regression problems and Classification problems by giving examples.,Analyze
+"""Gradient descent is not always the right choice for regression"", Discuss.",Evaluate
+Briefly discuss any four feature engineering tasks.,Understand
+Compare and contrast the biological neuron cell with the neuron node of an artificial neural network.,Analyze
+Compare and contrast Feedforward and Feedback networks.,Analyze
+"""Forecasting weather is easier than forecasting stock prices"", Discuss.",Evaluate
+List out and discuss five significant hyperparameters to tune in neural networks.,Analyze
+Why is stochastic gradient descent is preferred to train neural networks with large datasets?,Understand
+"What are the reasons for neural networks to suffer from overfitting, and what are the possible solutions to overcome overfitting",Understand
+"Build and train a Neural Network to represent XOR gate using the ""neuralnet"" library in R language",Create
+"Build a train a Neural Network to solve the equation c = 2a + 3, where a is the independent variable and c is the depended variable. You may generate your training and testing datasets.",Create
+Build and train a Neural Network to represent decimal values from 0 to 31 in binary.,Create
+"Why is random-access memory (RAM) called ""volatile"" memory?",Understand
+Briefly explain the factors affecting the performance of a Computer.,Understand
+What are the limitations of Moore's law? Why cannot this law hold forever?,Analyze
+Convert the following numbers to their equivalents bases mentioned below.,Apply
+"What is ""locality of reference""?",Understand
+Give two examples for each of the following software.,Remember
+Briefly explain the fundamental logic gates with suitable truth tables.,Understand
+Write the Boolean expression for the following logic circuits.,Apply
+Draw a logic circuit for (A + B) (C + D) CB.,Create
+Name the two types of logic gate used in the circuit above.,Remember
+"Which part of the circuit, X, Y or Z, is:",Apply
+Explain what happens in each part of the circuit when it is both cold and dark.,Understand
+Describe a practical use for the above circuit.,Apply
+What k random-access memory (RAM)?,Understand
+Briefly explain the factors affecting the performance of a Computer.,Understand
+Explain the advantages of digital computer while compare to analog computer.,Evaluate
+Convert the following numbers to their equivalents bases mentioned below.,Apply
+What is the main function of Arithmetic Logical Unit (ALU) in processor?,Understand
+List types of busses in the computer system,Remember
+Briefly explain the fundamental logic gates with suitable truth tables.,Remember
+Use Karnaugh maps to simplify the following sum-of-products (SOP) expressions,Evaluate
+Briefly describe the following concepts in Java,Analyze
+What are the control structures available in Java? Briefly describe each structure with simple example.,Evaluate
+Write a Java program to compute compound interest. Consider the following problem.,Apply
+Write a java program to convert the Fahrenheit to Celsius.,Apply
+Write a java program to print the pyramid of stars as follows by getting the number of rows as input from the user.,Apply
+Create a following multiplication table using nested loops in java.,Create
+Write a java program to determine and print which season a particular month is in using switch case control statements in java.,Create
+Write the java program in the concept of array to fulfill the following requirements.,Create
+Briefly describe the following concepts in Java,Analyze
+What are the control structures available in Java? Briefly describe each structure with a simple example,Evaluate
+Write a Java program to read the names of users and number of units Consumed and print out the charges with name.,Evaluate
+Write a Java program that has variables to hold three test scores,Create
+What are the main components of the computer system?,Remember
+"Why is Random-Access Memory (RAM) called ""Volatile"" memory?",Understand
+List two devices that can perform both input & output operations in a computer system.,Apply
+Briefly explain the factors affecting the performance of a Computer.,Analyze
+What are the limitations of Moore's law? Why cannot this law hold forever?,Analyze
+Explain the use of the following types of the memory/storage in a computer system.,Understand
+Convert the following numbers to their equivalents bases mentioned below.,Remember
+Briefly explain the Von Neumann architecture of computer with a suitable diagram,Understand
+Briefly explain the fundamental logic gates with suitable truth tables,Understand
+Write the Boolean expression for the following logic circuit.,Apply
+Which part of the system forms the control circuit,Understand
+What conditions will stop the washing machine motor working when the power switch is ON? Briefly Explain.,Understand
+Complete the truth table for the control system.,Apply
+Why must a relay be used to operate the heater?,Understand
+What are the main components of the computer system?,Remember
+Briefly explain the factors affecting the performance of a Computer,Understand
+What are the limitations of Moore's law?,Remember
+Explain the use of the following types of the memory/storage in a computer system.,Understand
+Name the two types of logic gate used in the circuit above.,Remember
+Briefly describe the difference between the do-while loop and while loop,Understand
+Write a program that test the summation formula,Apply
+Briefly explain the usage of break and continue keywords.,Understand
+Write a program to display the name of user by asking the name using a Dialog box.,Apply
+What are the Selection Structures available in java? Briefly explain each. ,Understand
+What is the Difference between a while statement and if statement?,Understand
+Write a program that does the following,Apply
+What are the control structures available in Java? Briefly describe each structure with a simple Java program,Understand
+What are the differences between while loop and do-while loop?,Understand
+What will be the output of the following program segments?,Analyze
+Write Java program to evaluate the temperature in Celsius (C) when the input temperature is in Fahrenheit (F).,Apply
+What are the control structures available in Java? Iiriet1y describe each structure with a simple Java program,Understand
+What are the differences between while loop and do-while loop'?,Understand
+What the main functions of Central Processing Unit (CPU)?,Remember
+What is the Firmware in a computer system?,Remember
+give three (03) examples for permanent storage devices.,Remember
+What is translator in computer Software? Give two examples,Remember
+What is the purpose of a cache memory in computer system,Remember
+covert the following numbers to their equivalents bases mentioned below.,Apply
+Explain S-R Latches function using suitable gates and truth table.,Understand
+Write the Boolean expression for the following logic circuit.,Apply
+Draw a logic circuit for (X + Y) + (X +Z) + (XY).,Create
+"Using Boolean algebra rules and techniques, simplify the following expressions.",Analyze
+explain what happens in each part of the system when it is both hot and light.,Understand
+Briefly explain the factors affecting the performance of a Computer,Understand
+What are the limitations of Moore's law? Why cannot this law hold forever?,Analyze
+Give three (03) examples for permanent storage devices,Remember
+What are the levels of programming language? Explain each briefly,Understand
+Name five types of java packages available with JDK and explain the usage of each briefly.,Understand
+What is the main difference between following concepts in java,Analyze
+Write a program to print the following pattern using nested loops,Apply
+Write a program which prints two random numbers and the sum of those two random numbers,Apply
+What is the output of the following program,Analyze
+"Perform the same output using ""for loop""",Apply
+What is the main difference between following concepts in Java?,Analyze
+Write a java program to display the name of user by asking the name using a dialog box.,Apply
+"Write a java program using if else and switch case statements. First it should ask to enter a number, then according to user selection one of following message should display",Apply
+Write a Java program to determine whether an input number is an even number or odd number or equal to zero.,Apply
+Briefly explain the generations of computer processor technology,Understand
+What are embedded computers? Give two (02) examples,Understand
+Give three (03) examples for output devices,Remember
+What is the purpose of using Antivirus Software in a computer system?,Understand
+Write down the syntax and flow chart of for loop,Apply
+Write a java program to print such a pattern like right angle triangle with number using nested loops. The pattern like,Apply
+Write a Java program to calculate the sum of numbers stored in following array elements using while loop,Apply
+Write down the syntax of switch statement. Explain the uses of switch statement,Understand
+Write a java program to determine whether an input number is a positive number or not using if else,Apply
+Write a java program to evaluate the volume of a hemisphere. To input the value of r use input dialog box and to show the volume of a hemisphere use message dialog box.,Apply
+What are the data types available in java,Remember
+Name three types of java packages available with JDK and explain the usage of each briefly,Understand
+What is the main difference between break keyword and continue keyword in java?,Remember
+Take values of length and breadth of a rectangle from user and check if it is square or not using if else statement.,Apply
+Define the term encapsulation. Provide an example.,Understand
+What is a constructor?,Remember
+State the rules for creating Java constructors.,Remember
+State the difference between the constructors and methods.,Remember
+What is an interface in java?,Understand
+Explain the term inheritance in java. Provide an example.,Analyze
+Differentiate the terms subclass and superclass in java.,Understand
+What is an abstraction in java? Provide an example. ,Understand
+Explain the term polymorphism in detail.,Understand
+Explain the terms method overriding and overloading in detail.,Analyze
+Differentiate method overloading and method overriding.,Analyze
+Can we override a main method? State the reason. ,Remember
+Can we overload a main method? State the reason.,Remember
+Write down a simple code for constructor overloading.,Apply
+"Implement the classes to the given system. (Note: All the classes should be included inside the same package with the name ""Company"".)",Create
+"Create the ""DriverClass"" inside the same package.",Create
+Create a display method (which displays the attributes in the super class of the child class holding the display method) in the relevant classes.,Create
+"Define a parameterized constructor for the class ""Staff"" which takes all of its attributes.",Create
+"Define a parameterized constructor for the class ""SeniorStaff"" which calls the constructor of the super class.",Create
+"Define a parameterized constructor for the class ""JuniorStaff' which calls the constructor of the super class and takes its own variables as the parameter.",Create
+Differentiate the following terms with suitable examples,Analyze
+What is Kamaugh Map,Remember
+Write simple code which explaining the inheritance.,Apply
+explain the Polymorphism in java?,Understand
+Write simple code for constructor overloading.,Apply
+Rapid application development (RAD) is a methodology for software development. What is meant by this?,Remember
+Every development approach having advantages and disadvantages. List out 5 advantages and 5 disadvantages of Rapid application development.,Analyze
+Critically evaluate the customer involvement on Rapid application development.,Evaluate
+Calculate the schedule in month required to finish the project.,Apply
+Calculate team members required to finish the project.,Apply
+Compute the unadjusted functional point total of the project,Apply
+Calculate the adjusted functional point total of the project when influence multiplier is 0.95,Apply
+Explain what you mean by outsourcing?,Understand
+Why companies do outsourcing?,Understand
+What are the risks evolving in Outsourcing?,Analyze
+Briefly explain about Iterative and incremental development.,Understand
+What is meant by software prototyping? Briefly explain with a support of a diagram.,Understand
+"What do you mean by the term ""Multimedia”",Understand
+Briefly describe the advantages of vector graphics,Understand
+There are several types of multimedia according to the contents. List out the types and describe each of them.,Understand
+List out the features of multimedia,Remember
+List out the key issues of multimedia system,Understand
+Describe the steps involved in 3 — D animation,Understand
+Compare and contrast the lossless and lossy compression methods,Analyze
+Clearly state the steps of Shannon - fano algorithm,Remember
+What is meant by classic mistakes in RAD? ,Remember
+Describe the following terms related to classic mistakes in RAD.,Understand
+List out different types of the estimation in a software project.,Remember
+Calculate the schedule in month required to finish the project.,Apply
+Calculate team members required to finish the project,Apply
+Compute the unadjusted functional point total of the project.,Apply
+List down four (04) major features of Team Foundation Server.,Remember
+List out and explain three (03) kinds of competencies important to team members.,Understand
+What is meant by classic mistakes in RAD.?,Remember
+Describe the following terms related to classic mistakes in RAD,Understand
+Explain how it affects the rapid development of a software project.,Analyze
+List out different types of the estimation in a software project.,Remember
+Explain how it affects the rapid development of a software project.,Analyze
+What are the benefits of using daily build and smoke test?,Understand
+Briefly explain what you mean by outsourcing,Understand
+Why companies do outsourcing?,Understand
+discuss the risks evolving in Outsourcing?,Analyze
+State the characteristics of multimedia systems,Remember
+Discuss the challenges of multimedia Systems,Analyze
+Define what is interactive multimedia,Remember
+State the components of interactive multimedia,Remember
+Compare and contrast bitmap images and vector images,Analyze
+Describe the two types of multimedia application,Understand
+Give two file formats for the following,Remember
+"What are the pixel dimension of a 5"" x 7"" photograph scanned at 300 dpi?",Apply
+Draw the Huffman tree,Create
+Draw the encoder table,Create
+compress the above string using Run-length Encoding compression scheme,Apply
+Find the compression ratio,Apply
+State whether it's a good compression or bad compression based on the compression ratio,Evaluate
+What are the types of multimedia according to the contents?. Describe each of them,Understand
+List out the features of multimedia.,Remember
+List out the key issues of multimedia system.,Remember
+Describe the steps involved in 3 — D animation,Understand
+What is a multiplexer,Remember
+"Draw a multiplexer using only NAND gates that selects from four inputs 10 to 13 using two select inputs, S0 and S1",Create
+Design a Full Adder and Show that a fully adder can be designed by connecting two half adders.,Create
+Explain the function of Decoder (2 — 4 DEC) circuits using truth table and its internal structure of logic gates diagram.,Understand
+What is Register? What are the different types of registers?,Remember
+What is a Flip-Flop? How it is differ from Latches,Remember
+Explain the Clocked and Unlocked RS Flip-Flips with the logic design.,Understand
+What do you meant by time and space complexity of algorithm,Understand
+What is Big-O notation? Give some example of complexity classes,Remember
+"Briefly describe worst-case, average-case, and best-case complexity with a simple example.",Understand
+Analyze the given code fragment below and answer the following question.,Analyze
+What is the best-case time complexity of this code fragment?,Analyze
+What is the average-case time complexity of this code fragment?,Analyze
+What is the worst-case time complexity of this code fragment?,Analyze
+Describe the idea behind on the insertion sort,Understand
+Trace and write the steps for the following list of numbers to find the sorted list using merge sort algorithm.,Apply
+Write a method to sort an array using insertion sort algorithm using java.,Apply
+State the difference between array and linked list data structure?,Understand
+What is a binary tree?,Remember
+A binary tree can be represented using array. Describe the basic idea on representing a binary tree using array.,Understand
+State the steps of three traversal orders in a binary tree traversal.,Remember
+Write the each traversal orders of the tree given below.,Apply
+Write down the adjacency matrix and adjacency list of the given graph.,Apply
+Write the Breadth- First Search order of vertices for the given graph.,Apply
+Briefly describe the steps on dijikstra's shortest path algorithm.,Understand
+ Find the shortest path of the given graph using dijikstra's shortest path,Apply
+Briefly describe the components of a computer system with suitable diagram.,Understand
+Describe the difference between Linux and Windows operating systems.,Understand
+"Compare various levels of storage in connection with size, speed, cost, access time and implementation technology.  ",Analyze
+What is system call? Explain the categories of system calls.,Understand
+Discuss the structure of an operating system. Justify the use of approaches of different structures providing efficient resource sharing services to the user.,Analyze
+"Define and differentiate the Layered, Client-Server approach of operating system design and implementation:",Understand
+What are the major activities of an operating system regarding the following management and explain briefly how these components relate each other with respect to the operating system.,Analyze
+Define and Differentiate Safe and Unsafe states in connection with deadlock.,Understand
+Implement the following Graph Data Structure application using Java program,Create
+Implement a java program to randomly store English alphabets in an array. Using your stored values to perform following operations (use separate methods for each).,Create
+Implement the following Tree Data Structure application,Create
+Display order of elements in BST using one of the traversal,Apply
+Implement the following Graph Data Structure application using Java program.  You are required to construct the below graph with respect to the edges and vertices.,Create
+Design a logic circuit that converts the information from code A to code B as shown in the Table 1.,Create
+What do you mean by multiplexer,Remember
+Draw a multiplexer using NAND gates only,Create
+Design a Full Adder using two Half adders,Create
+What is Register in computer system? What are the different types of Registers?,Remember
+Briefly explain the function of Decoder (2 — 4 DEC) circuits using truth table and its internal structure of logic gates,Understand
+What is a Flip-Flop? How is it differ from Latches?,Remember
+Describe the Clocked and Un-clocked RS Flip-Flops with the aid of logic design.,Understand
+Describe the Clocked and Un-clocked RS Flip-Flops with the aid of logic design.,Understand
+Analyze the number of instructions executed in the following iterative algorithm for computing nth Fibonacci numbers as a function of n. And write down the name of complexity class of this given algorithm,Analyze
+What do you mean by a recursive algorithm?,Understand
+Differentiate the advantage and disadvantages of recursive and iterative algorithms,Analyze
+Write down a recursive code for the iterative algorithm for computing nth Fibonacci numbers as a function of n. And find out the complexity class of your recursive code,Apply
+What do you mean by sorting algorithm?,Understand
+Describe the idea behind on the selection sort algorithm.,Understand
+Trace and write the steps for the following list of numbers to find the sorted list using selection sort algorithm.,Apply
+Write a java code for sort an array using bubble sort algorithm.,Apply
+A binary tree can be represented using array. Describe the basic idea on representing a binary tree using array.,Understand
+Construct a binary search tree for the given list of numbers,Create
+Write each traversal orders of the tree given below,Apply
+Draw the final tree of given tree after removing the node with value 8.,Create
+Write down the adjacency matrix and adjacency list of the given graph,Apply
+Write down the adjacency matrix and adjacency list of the given graph,Apply
+Find the shortest path of the given graph using dijikstra's shortest path algorithm,Apply
+Describe the difference between Linux and Windows operating systems.,Understand
+Briefly describe the components of a computer system with suitable diagram,Understand
+Explain the following:,Understand
+Explain the categories of system calls.,Understand
+"Define and differentiate the Layered, Modular Kernel approach of operating system design and implementation:",Understand
+Define and differentiate the following:,Understand
+Explain the basic principles of object orientation with comparing real world Clock object,Understand
+Briefly explain the following with an example:,Understand
+Define and differentiate Validation and Verification,Understand
+Explain the various steps involved in object oriented Systems development,Understand
+Describe the following Unified Modeling Language (UML) diagrams,Understand
+Draw a class diagram for a Typical Banking system,Create
+Data a use case diagram for a library system with their actors involved,Create
+Write a java program to check the word for the palindrome without using stack data structure. You should get the input as words not as characters from the user,Create
+Implement a java program to perform the following tasks,Create
+What is a complexity of an algorithm? Briefly describe the time and the space complexities of an algorithm?,Understand
+What is a complexity of an algorithm? Briefly describe the time and the space complexities of an algorithm?,Understand
+Explain the following Asymptotic complexity notations using a suitable example for each,Understand
+"Using a suitable example, briefly explain a base case and a recursive case with the context of recursive algorithm.",Understand
+What is Brute-force algorithm,Understand
+Explain the Greedy algorithm with an example,Create
+Briefly explain the concept of Bubble sort algorithm.,Understand
+What is the idea behind the selection sort algorithm?,Understand
+Write a method to implement insertion sort algorithm in Java programming.,Create
+Discuss the 3 properties of Binary Search Trees (BST).,Understand
+Write down the traversal orders for the given tree.,Apply
+Examine the following example input and output. Write a Java program which reads strings from a standard input and prints them in the reverse order.,Create
+Briefly describe the basic principles of object orientation.,Understand
+What is OOAD? Discuss the benefits of OOAD,Understand
+Explain the various steps involved in object oriented Systems development,Understand
+Draw a use case diagram for a library system with their actors involved.,Create
+Draw a sequence diagrams for computer user printing a file through print server and queue involved.,Create
+Draw a sequence diagram for a Telephonic call,Create
+Describe TWO complexity measures and list out FOUR properties of algorithm,Understand
+By inspecting the below code segment determine the maximum number of primitive operations executed by this algorithm as a function of the input size n and represent the efficiency of this algorithm using Big-Oh notation.,Analyze
+Using summation notation represent the efficiency of the algorithm to the below code segment.,Apply
+"Given the recurrence equation of the efficiency of quicksort algorithm is T(n-l) + n, where n is total number of elements in a list and T(n) is time taken to sort the elements using quick sort. Show that the worst-case complexity of this algorithm can be given as O(n2).",Analyze
+Briefly describe the concept behind the Divide and conquer algorithm. Using the divide and conquer algorithm sort the following list.,Understand
+Explain the Selection sort algorithm.,Understand
+Briefly explain the quick sort algorithm using a suitable diagram.,Understand
+Sort the below list of strings in ascending order using Radix sort algorithm.,Apply
+What is Binary Search Trees ,Remember
+What is Operating System? Briefly describe their functions ,Remember
+Short note on the following categories of operating system:,Understand
+"Define and differentiate the Layered, Micro Kernel and Modular Kernel approach of operating system design and implementations:",Understand
+Describe the actions taken by an operating system to context- switch between Processes,Understand
+Define the deadlock term. What are the necessary conditions for deadlock?,Remember
+Define and differentiate the following approach of operating system design and implementation,Understand
+Explain Process State Diagram,Understand
+Describe the actions taken by an operating system to context- switch between Processes,Understand
+"Write a program to store the fruits in a stack ordered as, shown in Figure 2 and perform the following operations.",Create
+Explain time and space complexities of an algorithm.,Understand
+calculate the maximum number of primitive operations can be executed by the given algorithm as a function of the input size N.,Apply
+"Using suitable example, explain the following analyses of an algorithm",Understand
+Derive the running time equation for the followings code segment and determine the efficiency by means of Big-Oh notation.,Apply
+Explain the main differences between Bubble sort and Insertion sort algorithms,Understand
+Consider the below list of elements:,Understand
+Explain the idea behind the Merge sort algorithm.,Apply
+Briefly explain TWO of the followings:,Understand
+What is adjacency matrix in graph data structure'? Construct a graph from the below adjacency matrix,Apply
+Briefly explain the time and the space complexities of an algorithm?,Understand
+"For the following code segment, compute the running time as a function of n",Apply
+Explain the usage of TWO of the following Asymptotic complexity notations.,Understand
+"Using a suitable example, briefly explain the recursive algorithm",Understand
+"Briefly explain the concept of Bubble sort algorithm. Using this sorting method, sort the given list of numbers into ascending or descending order",Understand
+Using the Merge sort algorithm to sort the following list in order,Apply
+What is Selection sort algorithm? ,Understand
+Write down the order of elements for the following tree traversals to the below tree,Apply
+Write down the adjacency matrix and path matrix for the below graph. ,Apply
+"Briefly describe the components of a computer system with suitable diagram,",Understand
+Define and differentiate the following approach of operating system design and implementation:,Understand
+Describe the actions taken by an operating system to context- switch between Processes,Understand
+What is Operating System? Briefly describe their functions.,Remember
+Briefly describe the types of schedulers.,Understand
+Describe the actions taken by an operating system to context- switch between Processes,Understand
+Define the deadlock term. What are the necessary conditions for deadlock?,Remember
+What is efficiency of an algorithm,Understand
+Briefly explain ANY TWO of the following algorithm analyses using suitable example for each,Understand
+Calculate the running time of the below code segment in term of input size n and determine the efficiency by mean of Big-Oh notation.,Apply
+"The Fibonacci numbers are a sequence of integers in which the first two elements are 0 & 1, and each following elements are the sum of the two preceding elements- it is described as follows",Understand
+Demonstrate using a diagram how to find the minimum number from the below numbers using divide and conquer algorithm.,Apply
+Explain the concept of greedy algorithm.,Understand
+Explain the difference between selection sort algorithm and insertion sort algorithm,Understand
+illustrate the insertion sort algorithm to sort the following list of elements in ascending order,Apply
+Using merge sort algorithm sort the following numbers in descending order.,Apply
+Explain the differences between binary tree and binary search tree (BST).,Understand
+Use the flowing BST to answer the questions below:,Apply
+Write down the path matrix and adjacency matrix to the below graph.,Apply
+Briefly describe the characteristics of HTTP,Understand
+Define the HTTP header fields and describe them each.,Understand
+Discuss the advantages and disadvantages of server side programming,Analyze
+What do you mean by dynamic web pages? And discuss the advantages and disadvantages of static web pages.,Understand
+"What do you mean by a public internet, and internal intranet?",Understand
+Briefly describe the term web service. And list out the components of web,Understand
+State and discuss the benefits of using web service.,Understand
+What are the available types of server architecture?,Remember
+What do you mean by time and space complexity of algorithm,Understand
+What is Big-O notation? Give some example of complexity classes,Remember
+Analyze the given code fragment below and answer the following question.,Analyze
+"What do you mean by sorting algorithm, internal sorting and external sorting?",Understand
+Describe the idea behind on the insertion sort.,Understand
+Trace and write the steps for the following list of numbers to find the sort list using merge sort algorithm.,Apply
+Write a method to sort an array using insertion sort algorithm using java.,Create
+Explain the network categories based on the following characteristics:,Understand
+What kind of applications might use a following network layout,Understand
+What are the different types of convergence? How does convergence apply to the Communications industry?,Understand
+What is Open System Interconnection (OSI)?,Remember
+How do the layers of the OSI model compare with the layers of the TCP/IP protocol suite?,Understand
+What are some of the more common applications found in the TCP/IP protocol suite?,Remember
+Explain different types of switching techniques with suitable illustration,Understand
+What arc the different approaches in Packet Switching? Explain them in detail,Understand
+What is routing? How is it different from switching?,Understand
+What is IP address? Briefly describe the different classes of IP address?,Remember
+Find the class of the following IP addresses,Apply
+Discuss in detail about different LAN technologies,Understand
+differentiate FDDI from token ring.,Analyze
+Briefly describe IEEE committees and their responsibilities.,Understand
+Write short notes on cellular technologies.,Understand
+"What do you mean by website, web pages, and web browsers?",Understand
+"List out the components of WWW, and describe each of them",Remember
+List out the main operations of the client system in the client server computing,Remember
+What do you mean by dynamic web pages? And discuss the advantages and disadvantages of static web pages.,Understand
+Discuss the comparison between client side and server side.  ,Analyze
+Identify the valid and invalid variables in PHP and indicate the reason if invalid.,Apply
+What are the differences between PI-IP constants and variables,Understand
+What is Document Type Declaration (DTD)?,Remember
+Explain the importance of Document Type Declaration in web development,Understand
+Differentiate different types of Doctypes from one to another,Analyze
+What is XML namespace? Why it is important,Understand
+Differentiate PCDATA and CDATA in a DTD of an XML document,Analyze
+"Write the valid XML document with respect to the given ""DTD"", below",Create
+Construct a method to display the array.,Create
+"Construct methods to sort the array using selection sort, bubble sort, insertion sort and merge sort.",Create
+"Construct a method to display the unsorted array, sorted array and computational time.",Create
+Justify the following statements.,Evaluate
+State the reason why an expiry date is defined in a cookie.,Understand
+"What does ""WISA"" stand for?",Remember
+Describe the role played by ICANN in the process of providing a domain name.,Understand
+"What is ""SSL""?",Remember
+Describe the following PHP errors using examples.,Understand
+"Briefly describe the term ""Bad HTML"".",Understand
+Briefly describe how ASP works.,Understand
+State the benefits of multi-tier architecture.,Understand
+Represent the following IP address in dotted decimal notation,Apply
+"Briefly describe the connection between URI, URL and URN",Understand
+What are the web service platform elements,Remember
+Describe the ways how a web service interface can be published to a client.,Understand
+Illustrate a typical real world web service scenario,Apply
+Explain the network categories based on the following characteristics:  ,Understand
+What are the different types of convergence? How does convergence apply to the Communications industry?,Understand
+What is the difference between modem and router?,Understand
+What are the seven layers of the OSI model'?,Remember
+What are the five layers of the TCP/IP protocol suite?,Remember
+How do the layers of the OSI model compare with the layers of the TCP/IP protocol suite?,Understand
+What are some of the more common applications found in the TCP/IP protocol suite,Remember
+Write notes on the following,Understand
+What is 802.11 Networks,Remember
+Discuss in detail about different LAN technologies,Understand
+Explain the following routing protocols with suitable example,Understand
+Construct a method in java to store 500 random numbers in an array from 1 to 1000,Create
+Construct a method in java to display the array.,Create
+Construct separate methods in java to sort the array using,Create
+Construct a method in java to search a key value from this array using sequential search algorithm. ,Create
+Construct a method in java to measure the computational time for each sorting and searching methods.,Create
+What do you mean by the term 'protocol’?,Understand
+State two differences between TCP and IP protocols.,Understand
+What is an IP address?,Remember
+Represent the following IP address in dotted decimal notation,Apply
+Represent the following code using DOM nodes,Apply
+Differentiate HTML and XML,Analyze
+Provide two advantages of XML,Understand
+Describe the process happen when a browser requests an ASP file,Understand
+State the two possible ways to achieve persistence,Remember
+What is a solution stack,Remember
+State the component of 3-Tier architecture? Briefly describe their functions.,Understand
+What are the web service platform elements,Understand
+Briefly discuss the Client-Server Network models using suitable examples.,Analyze
+Discuss the role of the Internet service provider (ISP) in the internet,Understand
+Differentiate the Static web pages from Dynamic Web pages with examples,Analyze
+What are the uses of computer networks in business applications,Understand
+What is network topology? Explain two commonly used network topologies,Understand
+difference between synchronous and asynchronous data transmission?,Understand
+Explain the following channel effect on data transmission.,Understand
+What is data transmission media? Explain the various media used for data transmission in computer networks.,Understand
+Mention the advantages of fiber optics media.,Remember
+Explain key differences in single-mode and multi-mode fiber optics media.,Understand
+What is client-server network? Explain the advantages of client-server network,Understand
+Explain the differences of IPv4 and IPv6,Understand
+What is network security? Who is vulnerable?,Understand
+List four types of cyber attacks.,Understand
+Clearly explain the functions of the following connectivity devices used in the Networking environment,Remember
+What is the difference between switching and routing?,Understand
+What is the difference between a logical connection and a physical connection,Understand
+Find the class of the following addresses,Apply
+What are the different approaches in Packet Switching? Explain them in detail,Understand
+Discuss in detail about LAN technologies,Understand
+What are the basic functions of the routing protocols?,Understand
+What do you mean by the term web services?,Understand
+What is a MAC address?,Remember
+Represent the following IP address in dotted decimal notation.,Apply
+Differentiate XHTML and XML,Analyze
+describe the process happen when a browser requests an ASP file,Understand
+What are the web service platform elements,Understand
+What is a solution stack'? Provide two examples,Understand
+What is the correct HTML for adding a background color yellow,Apply
+What will be the output of,Apply
+"What is the correct syntax for referring to an external script called ""xxx.js"" in JavaScript?",Apply
+Which is used about text data that should not be parsed by the XML parser,Remember
+Write down the Syntax of URL with an example,Apply
+Differentiate the Absolute path from Relative path,Analyze
+difference between a block-level element and an inline element,Analyze
+Describe the process happen when a browser requests an ASP file,Understand
+State the component of 3 -Tier architecture? Briefly describe their functions.,Understand
+What are the web service platform elements,Analyze
+What is the difference between include() Function and require() Function?,Analyze
+What is the difference between legal conduct and ethical conduct,Create
+What are the essential steps you need to follow for making your own website?,Understand
+List down and briefly explain 04 Ethical Issues in web development.,Understand
+Find the correct syntax ,Apply
+Discuss the role of ISP in the internet,Understand
+What are the advantages of Cyclic Redundancy Check (CRC) over Parity Check,Analyze
+What is the use of different layers in network architecture,Understand
+What is the necessity of protocol in data communication,Understand
+List out the protocols that belong to TCP/IP model,Remember
+State significant functions in each layer of the OSI model.,Understand
+Differentiate Classfull and Classless Inter Domain Routing (CIDR) IP addresses,Analyze
+What is the use of an IP address in data communication,Understand
+Create the following layout using CSS.,Create
+State whether you agree or not with the following statements. Briefly explain the reasons for your decisions.,Evaluate
+"Write the correct object-oriented concept in column B, which matches the description given in column",Apply
+Briefly explain the following software quality attributes.,Apply
+Write the suitable software process model type for the given description.,Understand
+What is the correct order in executing the above tests in software testing process?,Apply
+Briefly explain the following terms,Understand
+"Briefly describe two features associated with software development projects, but not as significant in other development projects.",Understand
+Describe two main differences in software engineering compared to other engineering disciplines.,Understand
+Briefly describe three advantages of using prototype software development model instead of waterfall model.,Understand
+Differentiate evolutionary prototype with throw-away prototype.,Analyze
+Briefly explain two technical considerations and two non-technical considerations which have to be considered when selecting a programming language for software implementation.,Understand
+Briefly describe three standard coding practices.,Understand
+What are the techniques used to increase the reliability of code during coding in software development?,Understand
+State two differences between Black-Box testing and White-Box testing.,Analyze
+How does software inspection differ from software testing? ,Analyze
+You are testing a photo-enforcement system for the traffic intersection. A photo will be taken if the two conditions are true: If the light is RED and front wheels of the car are over the line then it will take photo.,Apply
+Explain why a software system needs to be evolved.,Understand
+Briefly describe three types of software risk categories.,Understand
+One of the important design considerations is reusability of software components. Briefly explain two benefits of software component reuse,Understand
+Differentiate software engineering and re-engineering. Why do we need re-engineering?,Analyze
+Discuss database approach over traditional file-based approach.,Understand
+Briefly discuss ANY TWO of the followings,Understand
+Using a suitable diagram discuss three-schema architecture of database management system (DBMS).,Understand
+Differentiate the logical data independence with physical data independence,Analyze
+What is normalization in relational database system? Briefly discuss the processes involve in the following normalization steps,Understand
+What is database system,Remember
+Discuss FOUR phases of database design,Understand
+Briefly discuss the importance of Entity Relationship Diagram (ERD) in database system implementation.,Understand
+Using a suitable example explain the difference between multi valued attribute with derived value attribute,Apply
+What is relational database language? List THREE roles of structured query language (SQL) in DBMS.,Remember
+Use the following database schema of a company to write down the SQL statements for given queries,Apply
+What is relational Schema? Convert the following ER diagram into a relational schema,Apply
+What is normalization in database system? Discuss the importance of normalization process in a database system,Understand
+Briefly describe the (bur basic generic activities of a software development process.,Understand
+Briefly describe two problems associated with software development projects,Understand
+Briefly describe three advantages of' using prototype software development model instead of waterfall model,Understand
+List three key differences between Agile and Waterfall approach to software development.,Analyze
+Distinguish between user requirements and system requirements,Analyze
+Write down four functional requirements of a typical library management system provides online library functions.,Apply
+What types of software are most suitable for the above system,Analyze
+State two functional and non-functional requirements of the above scenario.,Apply
+explain two benefits of software component reuse.,Understand
+"Write down the suitable phrase for the following description related to software design, development and maintenance.",Apply
+What is the correct order in executing these tests in software testing process?,Apply
+Write the correct software testing type for the given description in the left column,Apply
+How does software re-engineering differ from software engineering? Explain using,Analyze
+Differentiate software deliverables and milestones.,Analyze
+Explain two reasons for changing the software after its deployment.,Understand
+ List down three risk categories of software development.,Remember
+Briefly describe the four basic generic activities of a software development process,Understand
+Briefly describe two problems associated with software development projects.,Understand
+Write the correct software quality attribute name for the given description,Apply
+Briefly describe three advantages of using prototype software development model instead of   waterfall model,Understand
+List three key differences between Agile and Waterfall approach to software development,Analyze
+Distinguish between user requirements and system requirements,Analyze
+Write down four functional requirements of a typical library management system which provides online library functions,Apply
+State whether the following statements are correct. Give reasons for your answer,Evaluate
+What types of software arc most suitable for the above system,Analyze
+State two functional and non-functional requirements of the above scenario,Apply
+Briefly explain two benefits of software component reuse.,Understand
+"Write down the suitable phrase for the following description related to software design, development and maintenance",Apply
+What is the correct order in execution of these tests in software testing process,Apply
+How does software re-engineering differ from software engineering'? Explain using diagrams,Analyze
+Differentiate software deliverables and milestones,Analyze
+Explain two reasons for changing the software after its deployment.,Understand
+List down three risk categories of software development,Remember
+Consider following terms,Analyze
+Which of the following statement(s) is/are correct,Evaluate
+Which of the following statement(s) is/are correct about the ANSI/SPARC architecture,Evaluate
+Which of the following statement(s) is/are correct about the external schema,Evaluate
+Which of the following typical drawbacks are present in a file oriented system,Analyze
+"If an entity has 2 candidate keys, then",Apply
+What is the best normal form that Lecturer relation satisfies,Apply
+Which of the following are true regarding anomalies that result from data redundancy,Analyze
+Briefly describe the database development process,Understand
+Compare and contrast the Logical Data Independence with Physical Data Independence.,Analyze
+"Differentiate ""total participation"" and ""partial participation"" with suitable examples.",Understand
+Briefly explain the followings with suitable example(s).,Understand
+What are the purpose of using normalization in relational schema,Understand
+"Draw an Entity-Rclationship (ER) diagram showing the necessary entities, attributes and relationships for the above driving school.",Understand
+"Give the set of relations together with the keys (primary, foreign, unique) for the above school by mapping the ER diagram into a relational model",Apply
+Consider the car sale relation given below:,Apply
+State and describe the desirable properties of Transactions (ACID properties).,Understand
+Consider the following database schema of a company and write the queries given below in relational algebra,Apply
+What would be in RESULT 1 after the above operation is performed,Analyze
+Insert the following data into your tables.,Apply
+Perform the following queries,Apply
+What is software (S W) project management?,Remember
+Who is project manager? Briefly explain the responsibilities of a project manager,Understand
+Discuss TWO of the followings,Analyze
+Briefly discuss the usage of project evaluation and review techniques (PERT) and Gantt charts in SW project management,Understand
+Fill the highlighted entries of the below table based on the facts given in diagram,Apply
+Draw a Gantt chart for this project.,Apply
+discuss the market opportunity and the contractual term of a SW project to determine the price of a S W.,Analyze
+What is COCOMO,Remember
+What is project life cycle?,Remember
+What is risk in SW project?,Remember
+What is software Quality Assurance in software production,Remember
+"What is the continuum from Image Processing to computer vision can be broken up into low, mid, and high level processes",Understand
+Briefly explain the Digital Image.,Understand
+What is the type of Digital Images and explain each?,Remember
+Explain the following Point Processing techniques,Understand
+What you meant by Histogram Equalization,Understand
+What is the application of thresh holding and explain the Spatial Filtering,Understand
+Create the following matrices,Apply
+What are differences between Program and Software product,Understand
+Briefly explain the six phases of SDLC,Understand
+What is Agile software process model,Remember
+Briefly explain the following Software Design principles,Understand
+What is Coupling and Cohesion? List three types of Coupling and Cohesion.,Understand
+"Explain briefly, the following two software design methodology",Understand
+What are the characteristics of Software Requirements Specification,Understand
+Differentiate Functional requirement and Non-functional requirement,Understand
+Examine and create a Decision Table and Decision Tree to represent the University rules,Apply
+What is test case,Remember
+Explain the following software testing levels,Understand
+Define the term Database System,Remember
+Give three (03) limitations of file based approach,Remember
+Compare and contrast the Logical Data Independence with Physical Data Independence.,Analyze
+Differentiate total participation and partial participation with suitable examples.,Understand
+Briefly explain the followings with a suitable example,Understand
+What are the purpose of using normalization in relational schema,Understand
+What is the best definition for a 'Database',Remember
+Which of the following typical drawbacks are present in a file oriented system,Understand
+Which of the following statement(s) is/are correct?,Understand
+"During the 'physical database design' stage, which of the following should be considered when  choosing a data type? ",Understand
+What is the best normal form that Lecturer relation satisfies,Analyze
+Briefly describe the steps involved in database development process,Understand
+List out four limitations in File-based System.,Remember
+Compare and contrast the Logical Data Independence with Physical Data Independence,Analyze
+Differentiate total participation and partial participation with   suitable examples.,Understand
+Briefly explain the followings with a suitable example.,Understand
+What are the purpose of using normalization in relational schema,Understand
+"Draw an Entity-Relationship (ER) diagram showing the necessary entities, attributes and relationships for the above driving school.",Apply
+"Give the set of relations together with the keys (primary, foreign, unique) for the above school by mapping the ER diagram into a relational model",Apply
+Give brief outline of the following organization structures,Understand
+Discuss THREE factors which influence the price of a software product.,Analyze
+Explain TWO productivity measures of software project using examples,Understand
+Define the term Software Engineering,Remember
+Briefly explain two broad categories of software quality attributes,Understand
+What is feasibility study? Explain different types of feasibility study,Understand
+ There are many differences in software engineering compared to other ,Understand
+engineering disciplines. State four (04) reasons for this,Evaluate
+Justify your answer with suitable reasons.,Remember
+What is a software process,Understand
+Explain what a prototype is and describe how it can be used in requirements gathering List ,Understand
+ three (03) advantages and thrcc disadvantages of prototyping,Understand
+Briefly describe how prototypes can be used in other stages of the system  development life cycle.,Understand
+What is a CASE tool? Describe how a CASE tool can help to improve the quality of a system being developed.,Understand
+There are many characteristics/attributes of a good software design. List four (04) of them and provide a brief explanation of each,Remember
+"Write Pre-and-post specification for a function, which finds the minimum value in a sorted array of numbers",Apply
+Briefly discuss five (05) types of UML diagrams,Understand
+Explain briefly Validation and Verification in software checking process,Understand
+State four reasons for changing (maintain) the software system,Understand
+What is the difference between test case and test plan,Understand
+List the main components in a test case.,Remember
+Explain the main difference between version and release of software,Understand
+Brief account on the following testing.,Understand
+"What are the important processor architectures produced by ""Intel”",Remember
+Define and differentiate CISC and RISC architecture,Understand
+Draw the block diagram of instruction execution cycle and explain function of each step,Apply
+Explain the function of the following components inside the CPU.,Understand
+What are registers? Discuss the types of general purpose registers with suitable illustration,Understand
+What is addressing mode? Explain the following addressing modes with suitable illustration and example,Understand
+List out four (04) advantages of using a database management system,Remember
+Briefly describe the components of File System,Understand
+Consider a disk with the following characteristics,Understand
+"Describe the ""Three-Schema Architecture"" of a database management system using appropriate diagram",Understand
+What is Operating System? Briefly describe the functions of' operating system.,Remember
+Briefly describe the components of a computer system with suitable diagram,Understand
+Define and differentiate the following approach of operating system design and implementation,Understand
+Describe the actions taken by an operating system to context- switch between processes.,Understand
+What are the states of process? Explain with suitable diagram,Understand
+"Define the ""deadlock"" term. What are the necessary conditions for deadlock?",Understand
+"Briefly discuss ""why the knowledge of software engineering is essential for software development”",Understand
+Distinguish between software engineering and systems engineering,Understand
+"Briefly explain the ""Prototyping model"" used in software development",Understand
+Explain the following two types of Prototyping model.,Understand
+What are the three main types of requirements in the SRS document that should address?,Understand
+Create a decision tree that captures the decision rules in this policy.,Apply
+Create a decision table that captures the decision rules in this policy,Apply
+Why is software design important,Understand
+"Compare and contrast object-oriented and function-oriented approaches to software design. What approach do you prefer and why? Explain,",Analyze
+Summarize the following requirements in the UML diagram,Understand
+Explain why you need to test the software in the software development life cycle,Understand
+Briefly describe the following Testing practices,Understand
+What do you mean by Software Maintenance? What are the types of Software Maintenance?,Understand
+What is configuration management in software engineering?,Remember
+State three (03) reasons for failure in software,Remember
+Explain the different types of feasibility studies and their important to the software development ,Understand
+What are the different non-functional requirements to be considered when developing a system? ,Understand
+What do you Understand by a Generic Software Application?,Understand
